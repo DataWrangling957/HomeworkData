@@ -1,0 +1,1779 @@
+"","ID","Name","CountryCode","District","Population","lon","lat"
+"1",1,"Kabul","AFG","Kabol",1780000,69.207486,34.5553494
+"2",2,"Qandahar","AFG","Qandahar",237500,65.7371749,31.628871
+"3",3,"Herat","AFG","Herat",186800,62.2040287,34.352865
+"4",4,"Mazar-e-Sharif","AFG","Balkh",127800,67.1179511,36.6926167
+"5",5,"Amsterdam","NLD","Noord-Holland",731200,4.8951679,52.3702157
+"6",6,"Rotterdam","NLD","Zuid-Holland",593321,4.4777326,51.9244201
+"8",8,"Utrecht","NLD","Utrecht",234323,5.1214201,52.0907374
+"9",9,"Eindhoven","NLD","Noord-Brabant",201843,5.4697225,51.441642
+"10",10,"Tilburg","NLD","Noord-Brabant",193238,5.056375,51.5852528
+"11",11,"Groningen","NLD","Groningen",172701,6.5665017,53.2193835
+"12",12,"Breda","NLD","Noord-Brabant",160398,4.768323,51.5719149
+"13",13,"Apeldoorn","NLD","Gelderland",153491,5.9699231,52.211157
+"16",16,"Haarlem","NLD","Noord-Holland",148772,4.6462194,52.3873878
+"18",18,"Arnhem","NLD","Gelderland",138020,5.8987296,51.9851034
+"19",19,"Zaanstad","NLD","Noord-Holland",135621,4.7510425,52.4579659
+"20",21,"Amersfoort","NLD","Utrecht",126270,5.3878266,52.1561113
+"21",22,"Maastricht","NLD","Limburg",122087,5.6909725,50.8513682
+"24",25,"Haarlemmermeer","NLD","Noord-Holland",110722,4.6743594,52.3003784
+"25",26,"Zoetermeer","NLD","Zuid-Holland",110214,4.494025,52.060669
+"28",29,"Ede","NLD","Gelderland",101574,5.6648594,52.0401675
+"29",30,"Delft","NLD","Zuid-Holland",95268,4.3570677,52.0115769
+"30",31,"Heerlen","NLD","Limburg",95052,5.9794988,50.8881742
+"31",32,"Alkmaar","NLD","Noord-Holland",92713,4.7533754,52.6323813
+"33",35,"Alger","DZA","Alger",2168000,3.0587561,36.753768
+"35",37,"Constantine","DZA","Constantine",443727,-85.6686026,41.8411603
+"36",38,"Annaba","DZA","Annaba",222518,7.7525352,36.9264582
+"39",43,"Biskra","DZA","Biskra",128281,5.7510475,34.8370347
+"40",44,"Blida (el-Boulaida)","DZA","Blida",127284,2.8297576,36.4757929
+"41",46,"Mostaganem","DZA","Mostaganem",115212,0.1401381,36.0131235
+"42",48,"Tlemcen (Tilimsen)","DZA","Tlemcen",110242,-1.3180042,34.8884062
+"43",50,"Tiaret","DZA","Tiaret",100118,1.3220322,35.3673553
+"44",51,"Ech-Chleff (el-Asnam)","DZA","Chlef",96794,1.3256957,36.1548171
+"45",53,"Tafuna","ASM","Tutuila",5200,-170.7269854,-14.331296
+"46",54,"Fagatogo","ASM","Tutuila",2323,-170.6923312,-14.2795685
+"47",55,"Andorra la Vella","AND","Andorra la Vella",21189,1.5218355,42.5063174
+"48",56,"Luanda","AGO","Luanda",2022000,13.2894368,-8.8399876
+"49",57,"Huambo","AGO","Huambo",163100,15.7468535,-12.7739761
+"50",58,"Lobito","AGO","Benguela",130000,13.5610451,-12.3757287
+"51",59,"Benguela","AGO","Benguela",128300,13.416501,-12.5905158
+"52",60,"Namibe","AGO","Namibe",118200,12.1575544,-15.1978317
+"53",64,"Dubai","ARE","Dubai",669181,55.2707828,25.2048493
+"54",65,"Abu Dhabi","ARE","Abu Dhabi",398695,54.3773438,24.453884
+"55",66,"Sharja","ARE","Sharja",320095,55.4209317,25.3462553
+"56",67,"al-Ayn","ARE","Abu Dhabi",225970,55.8023118,24.1301619
+"57",68,"Ajman","ARE","Ajman",114395,55.5136433,25.4052165
+"58",69,"Buenos Aires","ARG","Distrito Federal",2982146,-58.3815591,-34.6036844
+"59",70,"La Matanza","ARG","Buenos Aires",1266461,-58.6229664,-34.7862476
+"60",73,"Lomas de Zamora","ARG","Buenos Aires",622013,-58.4302476,-34.7611823
+"61",74,"Quilmes","ARG","Buenos Aires",559249,-58.2546051,-34.7206336
+"62",75,"Almirante Brown","ARG","Buenos Aires",538918,-58.3945107,-34.8400613
+"63",76,"La Plata","ARG","Buenos Aires",521936,-57.9535657,-34.9204948
+"64",77,"Mar del Plata","ARG","Buenos Aires",512880,-57.5426106,-38.0054771
+"65",80,"Merlo","ARG","Buenos Aires",463846,-122.8481904,45.5061332
+"66",82,"Salta","ARG","Salta",367550,-65.4231976,-24.7821269
+"67",83,"Moreno","ARG","Buenos Aires",356993,-117.2296717,33.9424658
+"68",85,"Avellaneda","ARG","Buenos Aires",353046,-58.3669739,-34.6610756
+"69",86,"Tres de Febrero","ARG","Buenos Aires",352311,-58.5429553,-34.6138478
+"70",88,"Florencio Varela","ARG","Buenos Aires",315432,-58.276012,-34.7965806
+"71",89,"San Isidro","ARG","Buenos Aires",306341,-58.5286102,-34.470829
+"72",90,"Tigre","ARG","Buenos Aires",296226,-58.5796585,-34.425087
+"73",91,"Malvinas Argentinas","ARG","Buenos Aires",290335,-58.7030326,-34.479665
+"74",93,"Berazategui","ARG","Buenos Aires",276916,-58.2112961,-34.762001
+"79",102,"Posadas","ARG","Misiones",201273,-55.9008746,-27.3621374
+"81",105,"San Salvador de Jujuy","ARG","Jujuy",178748,-65.2994767,-24.1857864
+"82",106,"Hurlingham","ARG","Buenos Aires",170028,-58.6275502,-34.589571
+"84",110,"Formosa","ARG","Formosa",147636,-94.1535377,36.0887415
+"85",111,"Las Heras","ARG","Mendoza",145823,-68.8405943,-32.8502966
+"87",113,"San Fernando del Valle de Cata","ARG","Catamarca",134935,-65.7767367,-28.4752023
+"88",115,"Comodoro Rivadavia","ARG","Chubut",124104,-67.4822429,-45.8656149
+"89",116,"Mendoza","ARG","Mendoza",123027,-68.8458386,-32.8894587
+"90",118,"San Juan","ARG","San Juan",119152,-66.1057355,18.4655394
+"91",119,"Escobar","ARG","Buenos Aires",116675,-84.4038224,33.7458337
+"92",120,"Concordia","ARG","Entre Rios",116485,-97.8381711,30.4190038
+"93",121,"Pilar","ARG","Buenos Aires",113428,-58.9091671,-34.4778621
+"94",122,"San Luis","ARG","San Luis",110136,-94.818292,29.2725356
+"96",124,"San Rafael","ARG","Mendoza",94651,-122.5310874,37.9735346
+"97",125,"Tandil","ARG","Buenos Aires",91101,-59.1367167,-37.3287999
+"98",126,"Yerevan","ARM","Yerevan",1248700,44.4991029,40.1791857
+"99",128,"Vanadzor","ARM","Lori",172700,44.4970268,40.807399
+"100",130,"Sydney","AUS","New South Wales",3276207,151.2092955,-33.8688197
+"102",132,"Brisbane","AUS","Queensland",1291117,153.0251235,-27.4697707
+"104",134,"Adelaide","AUS","South Australia",978100,138.6007456,-34.9284989
+"105",135,"Canberra","AUS","Capital Region",322723,149.1300092,-35.2809368
+"106",136,"Gold Coast","AUS","Queensland",311932,153.4,-28.016667
+"107",137,"Newcastle","AUS","New South Wales",270324,-1.61778,54.978252
+"108",138,"Central Coast","AUS","New South Wales",227657,151.2335592,-33.3208415
+"109",139,"Wollongong","AUS","New South Wales",219761,150.8930607,-34.4278121
+"110",140,"Hobart","AUS","Tasmania",126118,147.3271949,-42.8821377
+"111",141,"Geelong","AUS","Victoria",125382,144.3617186,-38.1499181
+"113",143,"Cairns","AUS","Queensland",92273,145.7780548,-16.9185514
+"114",144,"Baku","AZE","Baki",1787800,49.8670924,40.4092617
+"115",146,"Sumqayit","AZE","Sumqayit",283000,49.6317411,40.5854765
+"116",148,"Nassau","BHS","New Providence",172000,-77.355413,25.0479835
+"117",149,"al-Manama","BHR","al-Manama",148000,55.9971326,25.3301904
+"118",150,"Dhaka","BGD","Dhaka",3612850,90.4125181,23.810332
+"119",151,"Chittagong","BGD","Chittagong",1392860,91.7831819,22.356851
+"120",152,"Khulna","BGD","Khulna",663340,89.5403279,22.845641
+"121",153,"Rajshahi","BGD","Rajshahi",294056,88.6241351,24.3635886
+"122",154,"Narayanganj","BGD","Dhaka",202134,90.5000404,23.6237764
+"125",157,"Barisal","BGD","Barisal",170232,90.3534511,22.7010021
+"126",158,"Tungi","BGD","Dhaka",168702,73.5152381,19.0495708
+"127",159,"Jessore","BGD","Khulna",139710,89.2181664,23.1634014
+"128",160,"Comilla","BGD","Chittagong",135313,91.1809065,23.4606574
+"130",162,"Dinajpur","BGD","Rajshahi",127815,88.6331758,25.6279123
+"131",163,"Bogra","BGD","Rajshahi",120170,89.3729633,24.848078
+"133",165,"Brahmanbaria","BGD","Chittagong",109032,91.1115014,23.9608181
+"135",167,"Jamalpur","BGD","Dhaka",103556,86.4906091,25.312717
+"137",169,"Naogaon","BGD","Rajshahi",101266,88.7530952,24.9131597
+"139",171,"Narsinghdi","BGD","Dhaka",98342,90.7860057,24.134378
+"140",172,"Saidpur","BGD","Rajshahi",96777,88.8982666,25.7829542
+"141",173,"Gazipur","BGD","Dhaka",96717,90.4125181,24.0958171
+"142",174,"Bridgetown","BRB","St Michael",6070,-59.6144819,13.0968511
+"144",176,"Gent","BEL","East Flanderi",224180,3.7174243,51.0543422
+"145",177,"Charleroi","BEL","Hainaut",200827,4.444643,50.4108095
+"147",180,"Brugge","BEL","West Flanderi",116246,3.2246995,51.209348
+"148",181,"Schaerbeek","BEL","Bryssel",105692,4.3772981,50.8674164
+"149",182,"Namur","BEL","Namur",105419,4.8719854,50.4673883
+"150",183,"Mons","BEL","Hainaut",90935,3.956659,50.4542408
+"151",184,"Belize City","BLZ","Belize City",55810,-88.1962133,17.5045661
+"152",185,"Belmopan","BLZ","Cayo",7105,-88.7590201,17.2510114
+"153",186,"Cotonou","BEN","Atlantique",536827,2.3912362,6.3702928
+"154",188,"Djougou","BEN","Atacora",134099,1.6663523,9.7080916
+"155",189,"Parakou","BEN","Borgou",103577,2.6090043,9.3466822
+"156",191,"Hamilton","BMU","Hamilton",1200,-79.8711024,43.2557206
+"157",192,"Thimphu","BTN","Thimphu",22000,89.6392863,27.4727924
+"159",194,"La Paz","BOL","La Paz",758141,-68.1192936,-16.489689
+"160",195,"El Alto","BOL","La Paz",534466,-68.2146857,-16.5000936
+"161",196,"Cochabamba","BOL","Cochabamba",482800,-66.1653224,-17.4139766
+"162",197,"Oruro","BOL","Oruro",223553,-67.1060353,-17.9646772
+"163",198,"Sucre","BOL","Chuquisaca",178426,-90.0852213,29.9247915
+"164",200,"Tarija","BOL","Tarija",125255,-64.7280952,-21.5213825
+"165",201,"Sarajevo","BIH","Federaatio",360000,18.4130763,43.8562586
+"166",202,"Banja Luka","BIH","Republika Srpska",143079,17.191,44.7721811
+"167",203,"Zenica","BIH","Federaatio",96027,17.9077431,44.2034392
+"168",204,"Gaborone","BWA","Gaborone",213017,25.9231471,-24.6282079
+"169",205,"Francistown","BWA","Francistown",101805,27.5143603,-21.1661005
+"171",208,"Salvador","BRA","Bahia",2302832,-38.5014136,-12.9722184
+"172",209,"Belo Horizonte","BRA","Minas Gerais",2139125,-43.9352376,-19.9245018
+"173",213,"Recife","BRA","Pernambuco",1378087,-34.8769643,-8.0475622
+"174",214,"Porto Alegre","BRA","Rio Grande do Sul",1314032,-51.2176584,-30.0346471
+"175",215,"Manaus","BRA","Amazonas",1255049,-60.0217314,-3.1190275
+"176",224,"Duque de Caxias","BRA","Rio de Janeiro",746758,-43.3053106,-22.7862985
+"177",227,"Natal","BRA","Rio Grande do Norte",688955,30.8958242,-28.5305539
+"178",229,"Campo Grande","BRA","Mato Grosso do Sul",649593,-54.6201211,-20.4697105
+"179",233,"Contagem","BRA","Minas Gerais",520801,-44.0808763,-19.9161508
+"181",241,"Juiz de Fora","BRA","Minas Gerais",450288,-43.3433999,-21.7624237
+"182",242,"Aracaju","BRA","Sergipe",445555,-37.0730823,-10.9472468
+"185",249,"Campos dos Goytacazes","BRA","Rio de Janeiro",398418,-41.3184877,-21.7626902
+"186",252,"Olinda","BRA","Pernambuco",354732,-34.841629,-7.9908056
+"188",262,"Pelotas","BRA","Rio Grande do Sul",315415,-52.3375886,-31.7653989
+"190",268,"Canoas","BRA","Rio Grande do Sul",294125,-51.1861582,-29.9133278
+"191",272,"Montes Claros","BRA","Minas Gerais",286058,-43.8582139,-16.7286406
+"196",288,"Caruaru","BRA","Pernambuco",244247,-35.9701874,-8.2849639
+"200",297,"Governador Valadares","BRA","Minas Gerais",231724,-41.9559233,-18.8549317
+"201",304,"Petrolina","BRA","Pernambuco",210540,-40.5030961,-9.389083
+"202",307,"Ipatinga","BRA","Minas Gerais",206338,-42.5480125,-19.4707617
+"203",308,"Juazeiro","BRA","Bahia",201073,-40.503516,-9.4167977
+"204",320,"Sete Lagoas","BRA","Minas Gerais",182984,-44.2416695,-19.45738
+"205",321,"Rio Grande","BRA","Rio Grande do Sul",182222,-101.8353878,28.8106382
+"206",322,"Itabuna","BRA","Bahia",182148,-39.2784178,-14.7880327
+"207",324,"Arapiraca","BRA","Alagoas",178988,-36.6639577,-9.755588
+"208",327,"Alvorada","BRA","Rio Grande do Sul",175574,-51.0813677,-29.991901
+"209",331,"Nova Friburgo","BRA","Rio de Janeiro",170697,-42.5340796,-22.2887261
+"210",334,"Barra Mansa","BRA","Rio de Janeiro",168953,-44.1772604,-22.5408519
+"211",338,"Boa Vista","BRA","Roraima",167185,-22.8078335,16.0950108
+"212",339,"Passo Fundo","BRA","Rio Grande do Sul",166343,-52.4160039,-28.2587812
+"213",340,"Dourados","BRA","Mato Grosso do Sul",164716,-54.8291259,-22.2272034
+"214",341,"Santa Luzia","BRA","Minas Gerais",164704,-24.7439749,16.7644992
+"215",350,"Cabo de Santo Agostinho","BRA","Pernambuco",149964,-35.0304219,-8.2794398
+"216",356,"Lages","BRA","Santa Catarina",139570,-50.3263964,-27.8157141
+"217",363,"Nossa Senhora do Socorro","BRA","Sergipe",131351,-37.1269791,-10.8531643
+"218",367,"Barreiras","BRA","Bahia",127801,-44.9953475,-12.1477483
+"219",369,"Alagoinhas","BRA","Bahia",126820,-38.4211223,-12.1339689
+"220",371,"Uruguaiana","BRA","Rio Grande do Sul",126305,-57.0858428,-29.7619121
+"221",379,"Palmas","BRA","Tocantins",121919,-48.3242858,-10.249091
+"223",384,"Cabo Frio","BRA","Rio de Janeiro",119503,-42.0262542,-22.8867507
+"224",386,"Patos de Minas","BRA","Minas Gerais",119262,-46.5146749,-18.5872582
+"225",387,"Camaragibe","BRA","Pernambuco",118968,-34.9784748,-8.0239216
+"226",389,"Queimados","BRA","Rio de Janeiro",115020,-43.5522256,-22.7106685
+"228",394,"Barbacena","BRA","Minas Gerais",113079,-43.7706811,-21.2219344
+"229",397,"Lauro de Freitas","BRA","Bahia",109236,-38.3148204,-12.8820575
+"230",399,"Teixeira de Freitas","BRA","Bahia",108441,-39.7421813,-17.5400307
+"231",400,"Varginha","BRA","Minas Gerais",108314,-45.4368421,-21.5560521
+"232",407,"Santa Cruz do Sul","BRA","Rio Grande do Sul",106734,-52.4348382,-29.722516
+"233",412,"Cachoeirinha","BRA","Rio Grande do Sul",103240,-51.1021166,-29.9477228
+"234",416,"Itabira","BRA","Minas Gerais",102217,-43.2316363,-19.6244172
+"235",419,"Resende","BRA","Rio de Janeiro",100627,-44.4513295,-22.4709621
+"236",421,"Pouso Alegre","BRA","Minas Gerais",100028,-45.9420118,-22.2480373
+"237",424,"Passos","BRA","Minas Gerais",98570,-46.6133353,-20.7221434
+"239",429,"Conselheiro Lafaiete","BRA","Minas Gerais",97507,-43.7850227,-20.6639305
+"241",431,"Angra dos Reis","BRA","Rio de Janeiro",96864,-44.3157913,-23.0058039
+"242",435,"Parnamirim","BRA","Rio Grande do Norte",96210,-35.2713164,-5.9115545
+"243",436,"Jacobina","BRA","Bahia",96131,-40.5120603,-11.1816506
+"244",437,"Coronel Fabriciano","BRA","Minas Gerais",95933,-42.628205,-19.5189968
+"245",445,"Santana do Livramento","BRA","Rio Grande do Sul",91779,-55.5392304,-30.8772854
+"246",449,"Ituiutaba","BRA","Minas Gerais",90507,-49.464392,-18.9776571
+"247",456,"London","GBR","England",7285000,-0.1277583,51.5073509
+"248",457,"Birmingham","GBR","England",1013000,-1.890401,52.486243
+"249",458,"Glasgow","GBR","Scotland",619680,-4.251806,55.864237
+"251",460,"Edinburgh","GBR","Scotland",450180,-3.188267,55.953252
+"252",461,"Sheffield","GBR","England",431607,-1.470085,53.381129
+"254",463,"Leeds","GBR","England",424194,-1.5490774,53.8007554
+"255",464,"Bristol","GBR","England",402000,-2.58791,51.454513
+"257",466,"Coventry","GBR","England",304000,-1.519693,52.406822
+"258",467,"Leicester","GBR","England",294000,-1.1397592,52.6368778
+"259",468,"Bradford","GBR","England",289376,-95.9872847,36.2001466
+"261",470,"Nottingham","GBR","England",287000,-1.1581086,52.9547832
+"266",475,"Derby","GBR","England",236000,-97.2689331,37.5455735
+"267",476,"Swansea","GBR","Wales",230000,-3.943646,51.62144
+"268",477,"Southampton","GBR","England",216000,-1.4043509,50.9097004
+"269",478,"Aberdeen","GBR","Scotland",213070,-2.094278,57.149717
+"270",479,"Northampton","GBR","England",196000,-72.6412013,42.3250896
+"271",480,"Dudley","GBR","England",192171,-2.081112,52.512255
+"272",481,"Portsmouth","GBR","England",190000,-1.0879769,50.8197675
+"273",482,"Newcastle upon Tyne","GBR","England",189150,-1.61778,54.978252
+"274",483,"Sunderland","GBR","England",183310,-1.383801,54.906869
+"275",484,"Luton","GBR","England",183000,-0.4200255,51.8786707
+"276",485,"Swindon","GBR","England",180000,-1.7797176,51.5557739
+"277",486,"Southend-on-Sea","GBR","England",176000,0.7077123,51.5459269
+"278",487,"Walsall","GBR","England",174739,-1.982919,52.586214
+"279",488,"Bournemouth","GBR","England",162000,-1.880769,50.719164
+"280",489,"Peterborough","GBR","England",156000,-0.2405299,52.5694985
+"281",490,"Brighton","GBR","England",156124,-111.583187,40.598019
+"282",491,"Blackpool","GBR","England",151000,-3.0356748,53.8175053
+"283",492,"Dundee","GBR","Scotland",146690,-2.970721,56.462018
+"284",493,"West Bromwich","GBR","England",146386,-1.995159,52.517664
+"285",494,"Reading","GBR","England",148000,-75.9268747,40.3356483
+"286",495,"Oldbury/Smethwick (Warley)","GBR","England",145542,-1.99668,52.471067
+"287",496,"Middlesbrough","GBR","England",145000,-1.234956,54.574227
+"288",497,"Huddersfield","GBR","England",143726,-1.7850351,53.645792
+"289",498,"Oxford","GBR","England",144000,-1.2543668,51.7548164
+"290",499,"Poole","GBR","England",141000,-1.987248,50.71505
+"291",500,"Bolton","GBR","England",139020,-2.4282192,53.5768647
+"292",501,"Blackburn","GBR","England",140000,-2.487529,53.748575
+"293",502,"Newport","GBR","Wales",139000,-71.3128285,41.4901024
+"294",503,"Preston","GBR","England",135000,-95.9916603,35.711491
+"295",504,"Stockport","GBR","England",132813,-2.1266325,53.3933102
+"296",505,"Norwich","GBR","England",124000,-72.307869,43.7153482
+"297",506,"Rotherham","GBR","England",121380,-1.3635009,53.4326035
+"299",508,"Watford","GBR","England",113080,-0.39032,51.656489
+"300",509,"Ipswich","GBR","England",114000,1.14822,52.056736
+"301",510,"Slough","GBR","England",112000,-0.5950406,51.5105384
+"302",511,"Exeter","GBR","England",111000,-3.533899,50.718412
+"304",513,"Gloucester","GBR","England",107000,-70.6619888,42.6159285
+"305",514,"Saint Helens","GBR","England",106293,-122.1955508,46.1914006
+"306",515,"Sutton Coldfield","GBR","England",106001,-1.824042,52.570385
+"307",516,"York","GBR","England",104425,-1.0872979,53.9599651
+"309",518,"Basildon","GBR","England",100924,0.488736,51.576084
+"310",519,"Worthing","GBR","England",1e+05,-0.372882,50.81787
+"312",521,"Colchester","GBR","England",96063,0.891874,51.895927
+"314",523,"Gillingham","GBR","England",92000,0.551438,51.386322
+"316",525,"Rochdale","GBR","England",94313,-2.1561,53.6097136
+"317",526,"Birkenhead","GBR","England",93087,-3.023009,53.389991
+"318",527,"Worcester","GBR","England",95000,-71.8022934,42.2625932
+"320",529,"Halifax","GBR","England",91069,-78.9000072,36.6837729
+"321",530,"Woking/Byfleet","GBR","England",92000,-0.471357,51.340125
+"323",532,"Maidstone","GBR","England",90878,0.522699,51.270363
+"325",534,"Grimsby","GBR","England",89000,-0.080784,53.567471
+"326",535,"Saint Helier","GBR","Jersey",27523,-2.103233,49.1805019
+"327",537,"Road Town","VGB","Tortola",8000,-64.6184657,18.4286115
+"328",538,"Bandar Seri Begawan","BRN","Brunei and Muara",21484,114.939821,4.9030522
+"329",539,"Sofija","BGR","Grad Sofija",1122302,23.3218675,42.6977082
+"330",540,"Plovdiv","BGR","Plovdiv",342584,24.7452904,42.1354079
+"331",541,"Varna","BGR","Varna",299801,27.9147333,43.2140504
+"332",542,"Burgas","BGR","Burgas",195255,27.4626361,42.5047926
+"333",543,"Ruse","BGR","Ruse",166467,25.9656554,43.8355713
+"334",544,"Stara Zagora","BGR","Haskovo",147939,25.6344644,42.4257769
+"335",545,"Pleven","BGR","Lovec",121952,24.6066847,43.4170423
+"336",546,"Sliven","BGR","Burgas",105530,26.3228685,42.6816536
+"337",547,"Dobric","BGR","Varna",100399,24.1273062,47.2375519
+"338",549,"Ouagadougou","BFA","Kadiogo",824000,-1.5196603,12.3714277
+"340",552,"Bujumbura","BDI","Bujumbura",3e+05,29.3598782,-3.361378
+"341",553,"George Town","CYM","Grand Cayman",19600,-77.0653565,38.9097057
+"342",554,"Santiago de Chile","CHL","Santiago",4703954,-70.6692655,-33.4488897
+"343",555,"Puente Alto","CHL","Santiago",386236,-70.5906057,-33.6186082
+"344",559,"Antofagasta","CHL","Antofagasta",251429,-70.3975022,-23.6509279
+"345",560,"San Bernardo","CHL","Santiago",241910,-70.6987361,-33.5854485
+"346",565,"Talca","CHL","Maule",187557,-71.6484804,-35.4232444
+"348",570,"Coquimbo","CHL","Coquimbo",143353,-71.3389183,-29.9590009
+"349",571,"Osorno","CHL","Los Lagos",141468,-73.1149469,-40.5761897
+"350",572,"La Serena","CHL","Coquimbo",137409,-71.2519374,-29.9026691
+"351",573,"Calama","CHL","Antofagasta",137265,-68.9293819,-22.4543923
+"352",574,"Valdivia","CHL","Los Lagos",133106,-73.2452103,-39.8195857
+"353",575,"Punta Arenas","CHL","Magallanes",125631,-70.9170683,-53.1638329
+"354",579,"Ovalle","CHL","Coquimbo",94854,-71.1969882,-30.604304
+"355",582,"Melipilla","CHL","Santiago",91056,-71.2166838,-33.6861588
+"356",583,"Avarua","COK","Rarotonga",11900,-159.7823059,-21.2129007
+"357",585,"Djibouti","DJI","Djibouti",383000,42.590275,11.825138
+"358",586,"Roseau","DMA","St George",16243,-95.762766,48.8460926
+"359",588,"Santiago de los Caballeros","DOM","Santiago",365463,-70.6930568,19.4791963
+"360",589,"La Romana","DOM","La Romana",140204,-68.9658817,18.4338645
+"361",592,"San Felipe de Puerto Plata","DOM","Puerto Plata",89423,-70.6871091,19.7807686
+"363",594,"Quito","ECU","Pichincha",1573458,-78.4678382,-0.1806532
+"364",595,"Cuenca","ECU","Azuay",270353,-79.0058965,-2.9001285
+"365",596,"Machala","ECU","El Oro",210368,-79.9553924,-3.2581112
+"366",597,"Santo Domingo de los Colorados","ECU","Pichincha",202111,-79.1774268,-0.2389045
+"367",599,"Ambato","ECU","Tungurahua",169612,-78.6228504,-1.2543408
+"369",602,"Ibarra","ECU","Imbabura",130643,-78.1222336,0.3391763
+"370",604,"Milagro","ECU","Guayas",124177,-95.9762767,36.0716801
+"371",605,"Loja","ECU","Loja",123875,-79.2112769,-4.0078909
+"374",609,"Alexandria","EGY","Aleksandria",3328196,29.9187387,31.2000924
+"378",613,"Suez","EGY","Suez",417610,32.5498069,29.9668343
+"380",615,"Tanta","EGY","al-Gharbiya",371010,-87.6320197,41.8918552
+"381",616,"al-Mansura","EGY","al-Daqahliya",369621,31.3784704,31.0409483
+"382",617,"Luxor","EGY","Luxor",360503,-115.1760672,36.09551
+"383",618,"Asyut","EGY","Asyut",343498,31.1859257,27.1783117
+"384",619,"Bahtim","EGY","al-Qalyubiya",275807,31.2712203,30.1357386
+"385",620,"Zagazig","EGY","al-Sharqiya",267351,31.5040656,30.5765383
+"386",621,"al-Faiyum","EGY","al-Faiyum",260964,30.8428497,29.3084021
+"387",622,"Ismailia","EGY","Ismailia",254477,32.2714587,30.5964923
+"388",623,"Kafr al-Dawwar","EGY","al-Buhayra",231978,30.1327813,31.1356648
+"389",624,"Assuan","EGY","Assuan",219017,32.8998293,24.088938
+"390",625,"Damanhur","EGY","al-Buhayra",212203,7.7478071,45.417626
+"391",626,"al-Minya","EGY","al-Minya",201360,30.7618397,28.0870967
+"392",627,"Bani Suwayf","EGY","Bani Suwayf",172032,31.0993845,29.0661274
+"393",628,"Qina","EGY","Qina",171275,32.2200065,26.0513299
+"394",629,"Sawhaj","EGY","Sawhaj",170125,31.7651362,26.501348
+"395",630,"Shibin al-Kawm","EGY","al-Minufiya",159909,31.0079484,30.5604564
+"397",632,"Banha","EGY","al-Qalyubiya",145792,31.1848307,30.4659929
+"399",634,"Kafr al-Shaykh","EGY","Kafr al-Shaykh",124819,30.9419751,31.1063198
+"400",635,"Mallawi","EGY","al-Minya",119283,30.8396598,27.7327603
+"401",636,"Bilbays","EGY","al-Sharqiya",113608,31.5621184,30.4158383
+"402",637,"Mit Ghamr","EGY","al-Daqahliya",101801,31.2607731,30.7148574
+"403",638,"al-Arish","EGY","Shamal Sina",100447,33.8032762,31.132093
+"404",639,"Talkha","EGY","al-Daqahliya",97700,31.380243,31.0549151
+"406",641,"Jirja","EGY","Sawhaj",95400,31.8875679,26.3418755
+"407",642,"Idfu","EGY","Qina",94200,32.8758199,24.978548
+"408",643,"al-Hawamidiya","EGY","Giza",91700,35.95755,34.715382
+"409",644,"Disuq","EGY","Kafr al-Shaykh",91300,30.6460377,31.1340963
+"410",645,"San Salvador","SLV","San Salvador",415346,-89.2181911,13.6929403
+"411",646,"Santa Ana","SLV","Santa Ana",139389,-117.867653,33.7454725
+"412",647,"Mejicanos","SLV","San Salvador",138800,-89.2134345,13.7334639
+"413",648,"Soyapango","SLV","San Salvador",129800,-89.1372527,13.710045
+"414",649,"San Miguel","SLV","San Miguel",127696,-100.745235,20.9144491
+"415",650,"Nueva San Salvador","SLV","La Libertad",98400,-89.2894733,13.6757837
+"416",651,"Apopa","SLV","San Salvador",88800,-89.1801225,13.8086742
+"417",652,"Asmara","ERI","Maekel",431000,38.9250517,15.3228767
+"418",653,"Madrid","ESP","Madrid",2879052,-3.7037902,40.4167754
+"419",654,"Barcelona","ESP","Katalonia",1503451,2.1734035,41.3850639
+"420",655,"Valencia","ESP","Valencia",739412,-0.3762881,39.4699075
+"421",656,"Sevilla","ESP","Andalusia",701927,-5.9844589,37.3890924
+"422",657,"Zaragoza","ESP","Aragonia",603367,-0.8890853,41.6488226
+"423",659,"Bilbao","ESP","Baskimaa",357589,-2.9349852,43.2630126
+"425",661,"Murcia","ESP","Murcia",353504,-1.1306544,37.9922399
+"426",662,"Palma de Mallorca","ESP","Balears",326993,2.6501603,39.5696005
+"427",665,"Vigo","ESP","Galicia",283670,-8.7207268,42.2405989
+"428",666,"Alicante [Alacant]","ESP","Valencia",272432,-0.4906855,38.3459963
+"430",671,"Vitoria-Gasteiz","ESP","Baskimaa",217154,-2.6818614,42.8591338
+"431",672,"Santa Cruz de Tenerife","ESP","Canary Islands",213050,-16.2518467,28.4636296
+"433",674,"Oviedo","ESP","Asturia",200453,-81.2081203,28.669997
+"434",676,"Elche [Elx]","ESP","Valencia",193174,-0.7125608,38.2699329
+"436",678,"Santander","ESP","Cantabria",184165,-96.8681303,32.8077525
+"437",679,"Jerez de la Frontera","ESP","Andalusia",182660,-6.1260744,36.6850064
+"438",682,"Cartagena","ESP","Murcia",177709,-75.4794257,10.3910485
+"439",684,"Fuenlabrada","ESP","Madrid",171173,-3.8035477,40.2902056
+"442",691,"Getafe","ESP","Madrid",145371,-3.7323934,40.3082504
+"443",694,"Huelva","ESP","Andalusia",140583,-6.9447224,37.261421
+"444",697,"Badajoz","ESP","Extremadura",136613,-6.9706535,38.8794495
+"447",704,"Ourense (Orense)","ESP","Galicia",109120,-7.863881,42.3357893
+"448",706,"Algeciras","ESP","Andalusia",103106,-5.456233,36.1407591
+"449",707,"Marbella","ESP","Andalusia",101144,-4.8824474,36.510071
+"450",708,"Barakaldo","ESP","Baskimaa",98212,-2.9862029,43.2969875
+"451",709,"Dos Hermanas","ESP","Andalusia",94591,-5.9242391,37.2865803
+"452",710,"Santiago de Compostela","ESP","Galicia",93745,-8.5448445,42.8782132
+"453",712,"Cape Town","ZAF","Western Cape",2352121,18.4240553,-33.9248685
+"454",713,"Soweto","ZAF","Gauteng",904165,27.8540323,-26.2485377
+"455",714,"Johannesburg","ZAF","Gauteng",756653,28.0473051,-26.2041028
+"456",715,"Port Elizabeth","ZAF","Eastern Cape",752319,25.5207358,-33.7139247
+"457",716,"Pretoria","ZAF","Gauteng",658630,28.2292712,-25.7478676
+"458",717,"Inanda","ZAF","KwaZulu-Natal",634065,30.9540293,-29.6982671
+"459",718,"Durban","ZAF","KwaZulu-Natal",566120,31.0218404,-29.8586804
+"460",719,"Vanderbijlpark","ZAF","Gauteng",468931,27.8076959,-26.7034204
+"461",720,"Kempton Park","ZAF","Gauteng",442633,-0.4026746,51.4185161
+"462",721,"Alberton","ZAF","Gauteng",410102,28.1224193,-26.2651613
+"463",722,"Pinetown","ZAF","KwaZulu-Natal",378810,30.8384093,-29.8345022
+"464",723,"Pietermaritzburg","ZAF","KwaZulu-Natal",370190,30.3794118,-29.6006068
+"465",724,"Benoni","ZAF","Gauteng",365467,28.3695699,-26.1510854
+"466",725,"Randburg","ZAF","Gauteng",341288,27.9951862,-26.1438399
+"467",726,"Umlazi","ZAF","KwaZulu-Natal",339233,30.8843434,-29.9687501
+"468",727,"Bloemfontein","ZAF","Free State",334341,26.1595761,-29.085214
+"471",730,"Roodepoort","ZAF","Gauteng",279340,27.9014654,-26.1201355
+"472",731,"Boksburg","ZAF","Gauteng",262648,28.2409671,-26.2325897
+"473",732,"Klerksdorp","ZAF","North West",261911,26.6317514,-26.8598225
+"474",733,"Soshanguve","ZAF","Gauteng",242727,28.1068267,-25.483403
+"475",734,"Newcastle","ZAF","KwaZulu-Natal",222993,-1.61778,54.978252
+"476",735,"East London","ZAF","Eastern Cape",221047,-0.1277583,51.5073509
+"477",736,"Welkom","ZAF","Free State",203296,26.7732162,-28.0045655
+"479",738,"Uitenhage","ZAF","Eastern Cape",192120,25.4141193,-33.768717
+"480",739,"Chatsworth","ZAF","KwaZulu-Natal",189885,-118.61481,34.2506356
+"483",742,"Botshabelo","ZAF","Free State",177971,26.7260713,-29.2672728
+"484",743,"Brakpan","ZAF","Gauteng",171363,28.3228165,-26.2908111
+"485",744,"Witbank","ZAF","Mpumalanga",167183,29.2553229,-25.8727817
+"489",748,"Westonaria","ZAF","Gauteng",159632,27.6505374,-26.3178076
+"492",751,"Potchefstroom","ZAF","North West",101817,27.0970475,-26.7145297
+"493",752,"Rustenburg","ZAF","North West",97008,27.255854,-25.6544483
+"494",753,"Nigel","ZAF","Gauteng",96734,28.4786117,-26.4227523
+"497",756,"Addis Abeba","ETH","Addis Abeba",2495000,38.7577605,8.9806034
+"498",757,"Dire Dawa","ETH","Dire Dawa",164851,41.850142,9.6008747
+"500",759,"Gonder","ETH","Amhara",112249,37.4521319,12.6030181
+"501",760,"Dese","ETH","Amhara",97314,-86.6568517,34.7298945
+"502",761,"Mekele","ETH","Tigray",96938,39.465738,13.4935504
+"504",763,"Stanley","FLK","East Falkland",1636,-95.6132893,36.317765
+"505",764,"Suva","FJI","Central",77366,178.4500789,-18.1248086
+"506",765,"Quezon","PHL","National Capital Reg",2173831,121.947311,13.9346903
+"507",766,"Manila","PHL","National Capital Reg",1581082,120.9842195,14.5995124
+"508",767,"Kalookan","PHL","National Capital Reg",1177604,121.0449768,14.7565784
+"509",768,"Davao","PHL","Southern Mindanao",1147116,125.455341,7.190708
+"510",769,"Cebu","PHL","Central Visayas",718821,123.8854366,10.3156992
+"511",770,"Zamboanga","PHL","Western Mindanao",601794,122.0790267,6.9214424
+"512",771,"Pasig","PHL","National Capital Reg",505058,121.0851097,14.5763768
+"513",772,"Valenzuela","PHL","National Capital Reg",485433,120.9830225,14.7010556
+"514",774,"Antipolo","PHL","Southern Tagalog",470866,121.1244847,14.6254827
+"516",776,"Cagayan de Oro","PHL","Northern Mindanao",461877,124.6318977,8.4542363
+"517",778,"Makati","PHL","National Capital Reg",444867,121.0244452,14.554729
+"518",779,"Bacolod","PHL","Western Visayas",429076,122.9689565,10.6407389
+"519",780,"General Santos","PHL","Southern Mindanao",411822,125.171618,6.1163861
+"520",781,"Marikina","PHL","National Capital Reg",391170,121.1028546,14.65073
+"521",783,"Muntinlupa","PHL","National Capital Reg",379310,121.0414667,14.4081327
+"523",785,"Pasay","PHL","National Capital Reg",354908,121.0013794,14.5377516
+"525",788,"Bacoor","PHL","Southern Tagalog",305699,120.9736786,14.4129931
+"526",789,"Iligan","PHL","Central Mindanao",285061,124.2452422,8.2280209
+"527",790,"Calamba","PHL","Southern Tagalog",281146,121.1250825,14.1876712
+"529",792,"Butuan","PHL","Caraga",267279,125.5406234,8.9475377
+"530",793,"Angeles","PHL","Central Luzon",263971,-118.2436849,34.0522342
+"531",794,"Tarlac","PHL","Central Luzon",262481,120.469642,15.4470354
+"532",795,"Mandaue","PHL","Central Visayas",259728,123.9415518,10.3402623
+"533",796,"Baguio","PHL","CAR",252386,120.5960071,16.4023332
+"534",797,"Batangas","PHL","Southern Tagalog",247588,121.1312012,13.9450336
+"535",798,"Cainta","PHL","Southern Tagalog",242511,121.114876,14.5864844
+"536",799,"San Pedro","PHL","Southern Tagalog",231403,-118.2922461,33.7360619
+"537",800,"Navotas","PHL","National Capital Reg",230403,120.9398467,14.6714904
+"538",801,"Cabanatuan","PHL","Central Luzon",222859,120.973393,15.4865047
+"541",804,"Lapu-Lapu","PHL","Central Visayas",217019,123.997295,10.2661822
+"542",805,"San Pablo","PHL","Southern Tagalog",207927,-122.3455263,37.9621457
+"543",807,"Taytay","PHL","Southern Tagalog",198183,121.1360819,14.5585549
+"544",808,"Lucena","PHL","Southern Tagalog",196075,-4.4961008,37.4129332
+"547",811,"Binangonan","PHL","Southern Tagalog",187691,121.195743,14.4765477
+"549",813,"Tagum","PHL","Southern Mindanao",179531,125.8094242,7.448212
+"550",814,"Tacloban","PHL","Eastern Visayas",178639,124.9616867,11.2543388
+"551",815,"Malolos","PHL","Central Luzon",175291,120.8160376,14.8527393
+"552",816,"Mabalacat","PHL","Central Luzon",171045,120.5744387,15.2228709
+"554",818,"Meycauayan","PHL","Central Luzon",163037,120.9739288,14.7498856
+"555",819,"Puerto Princesa","PHL","Southern Tagalog",161912,118.78551,9.9672163
+"556",820,"Legazpi","PHL","Bicol",157010,123.7437995,13.1390621
+"558",822,"Ormoc","PHL","Eastern Visayas",154297,124.6192702,11.0384275
+"559",823,"San Carlos","PHL","Ilocos",154264,-122.2605222,37.5071591
+"560",824,"Kabankalan","PHL","Western Visayas",149769,122.8535755,9.9134117
+"561",825,"Talisay","PHL","Central Visayas",148110,123.8299639,10.2569872
+"562",826,"Valencia","PHL","Northern Mindanao",147924,-0.3762881,39.4699075
+"564",828,"Santa Maria","PHL","Central Luzon",144282,-120.4357191,34.9530337
+"565",829,"Pagadian","PHL","Western Mindanao",142515,123.4343445,7.8397033
+"566",830,"Cadiz","PHL","Western Visayas",141954,-6.2885962,36.5270612
+"567",831,"Bago","PHL","Western Visayas",141721,96.4663286,17.3220711
+"568",832,"Toledo","PHL","Central Visayas",141174,-83.5378674,41.6528052
+"569",833,"Naga","PHL","Bicol",137810,-72.4771318,41.6175079
+"570",834,"San Mateo","PHL","Southern Tagalog",135603,-122.3255254,37.5629917
+"571",835,"Panabo","PHL","Southern Mindanao",133950,125.6841178,7.3087068
+"572",836,"Koronadal","PHL","Southern Mindanao",133786,124.8471625,6.4973963
+"574",838,"Dagupan","PHL","Ilocos",130328,120.3333124,16.0432998
+"575",839,"Sagay","PHL","Western Visayas",129765,123.408176,10.8783445
+"576",840,"Roxas","PHL","Western Visayas",126352,122.740723,11.5528816
+"578",842,"Digos","PHL","Southern Mindanao",125171,125.352398,6.7575087
+"579",843,"San Miguel","PHL","Central Luzon",123824,-100.745235,20.9144491
+"580",844,"Malaybalay","PHL","Northern Mindanao",123672,125.1276536,8.1306038
+"581",845,"Tuguegarao","PHL","Cagayan Valley",120645,121.7270206,17.6131813
+"582",846,"Ilagan","PHL","Cagayan Valley",119990,122.0101024,17.1263233
+"583",847,"Baliuag","PHL","Central Luzon",119675,120.8843434,14.9672031
+"584",848,"Surigao","PHL","Caraga",118534,125.5137674,9.7571312
+"585",849,"San Carlos","PHL","Western Visayas",118259,-122.2605222,37.5071591
+"586",850,"San Juan del Monte","PHL","National Capital Reg",117680,121.0368893,14.5994146
+"587",851,"Tanauan","PHL","Southern Tagalog",117539,121.1473558,14.0835075
+"588",852,"Concepcion","PHL","Central Luzon",115171,-73.0443904,-36.8201352
+"589",853,"Rodriguez (Montalban)","PHL","Southern Tagalog",115167,121.2397438,14.8000195
+"591",855,"Malasiqui","PHL","Ilocos",113190,120.4588059,15.9195445
+"592",856,"General Mariano Alvarez","PHL","Southern Tagalog",112446,121.01373,14.3066935
+"594",858,"Hagonoy","PHL","Central Luzon",111425,120.734995,14.791933
+"596",860,"Polomolok","PHL","Southern Mindanao",110709,125.0608405,6.224513
+"598",862,"Tanza","PHL","Southern Tagalog",110517,120.8384093,14.3519672
+"599",863,"Ozamis","PHL","Northern Mindanao",110420,123.7741195,8.162411
+"600",864,"Mexico","PHL","Central Luzon",109481,-102.552784,23.634501
+"602",866,"Silay","PHL","Western Visayas",107722,123.0875623,10.7528182
+"603",867,"General Trias","PHL","Southern Tagalog",107691,120.907304,14.3214094
+"604",868,"Tabaco","PHL","Bicol",107166,123.645139,13.3240963
+"605",869,"Cabuyao","PHL","Southern Tagalog",106630,121.1366715,14.2471423
+"606",870,"Calapan","PHL","Southern Tagalog",105910,121.1645706,13.3770935
+"610",874,"Gingoog","PHL","Northern Mindanao",102379,125.0976355,8.8229902
+"611",875,"Dumaguete","PHL","Central Visayas",102265,123.3054467,9.3068402
+"612",876,"San Fernando","PHL","Ilocos",102082,-118.4389719,34.2819461
+"613",877,"Arayat","PHL","Central Luzon",101792,120.7425034,15.205215
+"614",878,"Bayawan (Tulong)","PHL","Central Visayas",101391,122.8535755,9.4498906
+"615",879,"Kidapawan","PHL","Central Mindanao",101205,125.0911341,7.010607
+"616",880,"Daraga (Locsin)","PHL","Bicol",101031,123.6958809,13.1028156
+"617",881,"Marilao","PHL","Central Luzon",101017,120.9704234,14.7728024
+"618",882,"Malita","PHL","Southern Mindanao",1e+05,125.5815927,6.3843023
+"619",883,"Dipolog","PHL","Western Mindanao",99862,123.3373916,8.5142736
+"620",884,"Cavite","PHL","Southern Tagalog",99367,120.8785658,14.2456329
+"621",885,"Danao","PHL","Central Visayas",98781,123.9527031,10.5417498
+"622",886,"Bislig","PHL","Caraga",97860,126.2847751,8.2100558
+"623",887,"Talavera","PHL","Central Luzon",97329,-98.506788,29.60578
+"624",888,"Guagua","PHL","Central Luzon",96858,120.612406,14.9763617
+"625",889,"Bayambang","PHL","Ilocos",96609,120.4127161,15.8007665
+"626",890,"Nasugbu","PHL","Southern Tagalog",96113,120.6890055,14.0940383
+"627",891,"Baybay","PHL","Eastern Visayas",95630,124.8525626,10.6521412
+"628",892,"Capas","PHL","Central Luzon",95219,120.59045,15.333524
+"629",893,"Sultan Kudarat","PHL","ARMM",94861,124.4198243,6.5069401
+"630",894,"Laoag","PHL","Ilocos",94466,120.5926679,18.1960128
+"631",895,"Bayugan","PHL","Caraga",93623,125.7480952,8.7143526
+"632",896,"Malungon","PHL","Southern Mindanao",93232,125.2587964,6.3343032
+"633",897,"Santa Cruz","PHL","Southern Tagalog",92694,-122.0307963,36.9741171
+"634",898,"Sorsogon","PHL","Bicol",92512,123.9303991,12.7599859
+"635",899,"Candelaria","PHL","Southern Tagalog",92429,-16.3817021,28.3789692
+"636",900,"Ligao","PHL","Bicol",90603,123.4943968,13.1724166
+"637",902,"Libreville","GAB","Estuaire",419000,9.4672676,0.4161976
+"638",903,"Serekunda","GMB","Kombo St Mary",102600,-16.6880841,13.4502991
+"639",904,"Banjul","GMB","Banjul",42326,-16.5790323,13.4548761
+"640",905,"Tbilisi","GEO","Tbilisi",1235200,44.827096,41.7151377
+"641",906,"Kutaisi","GEO","Imereti",240900,42.7180019,42.2662428
+"642",907,"Rustavi","GEO","Kvemo Kartli",155400,45.0430369,41.5225612
+"644",910,"Accra","GHA","Greater Accra",1070000,-0.1869644,5.6037168
+"645",911,"Kumasi","GHA","Ashanti",385192,-1.6162709,6.6666004
+"646",912,"Tamale","GHA","Northern",151069,-95.8159448,36.0471002
+"647",913,"Tema","GHA","Greater Accra",109975,0.0302354,5.7348119
+"648",914,"Sekondi-Takoradi","GHA","Western",103653,-1.7830973,4.9015794
+"650",918,"Les Abymes","GLP","Grande-Terre",62947,-61.5252827,16.2710933
+"651",919,"Basse-Terre","GLP","Basse-Terre",12433,-61.6947193,16.0341215
+"652",922,"Ciudad de Guatemala","GTM","Guatemala",823301,-90.5068824,14.6349149
+"656",926,"Conakry","GIN","Conakry",1090610,-13.5784012,9.6411855
+"657",927,"Bissau","GNB","Bissau",241000,-15.6177942,11.8816553
+"659",929,"Port-au-Prince","HTI","Ouest",884472,-72.3074326,18.594395
+"660",930,"Carrefour","HTI","Ouest",290204,-95.8568336,36.0991053
+"661",931,"Delmas","HTI","Ouest",240429,28.6786903,-26.1403469
+"662",933,"Tegucigalpa","HND","Distrito Central",813900,-87.192136,14.0722751
+"663",936,"Kowloon and New Kowloon","HKG","Kowloon and New Kowl",1987996,114.1796057,22.3185673
+"664",937,"Victoria","HKG","Hongkong",1312637,144.7851531,-37.4713077
+"665",939,"Jakarta","IDN","Jakarta Raya",9604900,106.8650395,-6.17511
+"666",940,"Surabaya","IDN","East Java",2663820,112.7520883,-7.2574719
+"667",941,"Bandung","IDN","West Java",2429000,107.6191228,-6.9174639
+"669",943,"Palembang","IDN","Sumatera Selatan",1222764,104.7754307,-2.9760735
+"670",944,"Tangerang","IDN","West Java",1198300,106.6527099,-6.2023936
+"671",945,"Semarang","IDN","Central Java",1104405,110.4381254,-7.0051453
+"673",947,"Malang","IDN","East Java",716862,112.6326321,-7.9666204
+"674",948,"Bandar Lampung","IDN","Lampung",680332,105.2667887,-5.3971396
+"675",949,"Bekasi","IDN","West Java",644300,106.9755726,-6.2382699
+"676",950,"Padang","IDN","Sumatera Barat",534474,100.417181,-0.9470832
+"677",951,"Surakarta","IDN","Central Java",518600,110.8243272,-7.5754887
+"680",954,"Denpasar","IDN","Bali",435000,115.2126293,-8.6704582
+"681",955,"Yogyakarta","IDN","Yogyakarta",418944,110.3694896,-7.7955798
+"682",956,"Pontianak","IDN","Kalimantan Barat",409632,109.3425039,-0.0263303
+"683",957,"Samarinda","IDN","Kalimantan Timur",399175,117.1436154,-0.4948232
+"684",958,"Jambi","IDN","Jambi",385201,102.4380581,-1.4851831
+"685",959,"Depok","IDN","West Java",365200,106.7942405,-6.4024844
+"686",960,"Cimahi","IDN","West Java",344600,107.5413039,-6.8840816
+"687",961,"Balikpapan","IDN","Kalimantan Timur",338752,116.8528526,-1.2379274
+"688",962,"Manado","IDN","Sulawesi Utara",332288,124.8420794,1.4748305
+"691",965,"Tegal","IDN","Central Java",289744,109.1255917,-6.8797041
+"692",966,"Bogor","IDN","West Java",285114,106.8060388,-6.5971469
+"693",967,"Ciputat","IDN","West Java",270800,106.7175669,-6.3077057
+"694",968,"Pondokgede","IDN","West Java",263200,106.9299579,-6.2700246
+"695",969,"Cirebon","IDN","West Java",254406,108.5523164,-6.7320229
+"696",970,"Kediri","IDN","East Java",253760,112.0178286,-7.8480156
+"697",971,"Ambon","IDN","Molukit",249312,128.1907723,-3.6553932
+"698",972,"Jember","IDN","East Java",218500,113.6680747,-8.1844859
+"699",973,"Cilacap","IDN","Central Java",206900,108.902683,-7.6178096
+"700",974,"Cimanggis","IDN","West Java",205100,106.8591387,-6.3644564
+"701",975,"Pematang Siantar","IDN","Sumatera Utara",203056,99.0681668,2.970042
+"703",977,"Ciomas","IDN","West Java",187400,106.7656825,-6.6019425
+"704",978,"Tasikmalaya","IDN","West Java",179800,108.2171633,-7.3505808
+"705",979,"Madiun","IDN","East Java",171532,111.5300159,-7.6310587
+"708",982,"Banda Aceh","IDN","Aceh",143409,95.3237559,5.5482904
+"709",983,"Palu","IDN","Sulawesi Tengah",142800,119.8779987,-0.9002915
+"710",984,"Pasuruan","IDN","East Java",134019,112.8999225,-7.6469193
+"712",986,"Tebing Tinggi","IDN","Sumatera Utara",129300,99.1566855,3.3262879
+"713",987,"Percut Sei Tuan","IDN","Sumatera Utara",129000,98.770147,3.6396672
+"714",988,"Binjai","IDN","Sumatera Utara",127222,98.5025286,3.6135482
+"716",990,"Waru","IDN","East Java",124300,-86.0405117,40.7652285
+"719",993,"Blitar","IDN","East Java",122600,112.1609056,-8.0954627
+"720",994,"Serang","IDN","West Java",122400,106.1639749,-6.1103661
+"721",995,"Probolinggo","IDN","East Java",120770,113.2037131,-7.7764226
+"723",997,"Cianjur","IDN","West Java",114300,107.1425442,-6.8168237
+"726",1000,"Taman","IDN","East Java",107000,36.791111,45.185556
+"727",1001,"Depok","IDN","Yogyakarta",106800,106.7942405,-6.4024844
+"728",1002,"Citeureup","IDN","West Java",105100,106.9004472,-6.5322491
+"729",1003,"Pemalang","IDN","Central Java",103500,109.4259114,-7.0599422
+"730",1004,"Klaten","IDN","Central Java",103300,110.6645683,-7.657893
+"732",1006,"Cibinong","IDN","West Java",101300,106.8306951,-6.4901067
+"733",1007,"Palangka Raya","IDN","Kalimantan Tengah",99693,113.913977,-2.2161048
+"734",1008,"Mojokerto","IDN","East Java",96626,112.4401329,-7.4704747
+"735",1009,"Purwakarta","IDN","West Java",95900,107.4462717,-6.5406665
+"736",1010,"Garut","IDN","West Java",95800,107.9235563,-7.251216
+"737",1011,"Kudus","IDN","Central Java",95300,110.8791343,-6.7726186
+"738",1012,"Kendari","IDN","Sulawesi Tenggara",94800,122.5129742,-3.9984597
+"740",1014,"Gorontalo","IDN","Sulawesi Utara",94058,122.4467238,0.6999372
+"741",1015,"Majalaya","IDN","West Java",93200,107.7458559,-7.0517978
+"742",1016,"Pondok Aren","IDN","West Java",92700,106.6974924,-6.2845749
+"743",1017,"Jombang","IDN","East Java",92600,112.28609,-7.5740867
+"744",1018,"Sunggal","IDN","Sumatera Utara",92300,98.6215649,3.5759525
+"745",1019,"Batam","IDN","Riau",91871,104.0304535,1.0456264
+"746",1020,"Padang Sidempuan","IDN","Sumatera Utara",91200,99.2730146,1.3721801
+"747",1021,"Sawangan","IDN","West Java",91100,106.7647475,-6.4085961
+"748",1022,"Banyuwangi","IDN","East Java",89900,114.3691416,-8.2190944
+"749",1023,"Tanjung Pinang","IDN","Riau",89900,104.4665072,0.9185504
+"750",1024,"Mumbai (Bombay)","IND","Maharashtra",10500000,72.8776559,19.0759837
+"751",1025,"Delhi","IND","Delhi",7206704,77.1024902,28.7040592
+"752",1026,"Calcutta [Kolkata]","IND","West Bengali",4399819,88.363895,22.572646
+"753",1027,"Chennai (Madras)","IND","Tamil Nadu",3841396,80.2707184,13.0826802
+"754",1028,"Hyderabad","IND","Andhra Pradesh",2964638,78.486671,17.385044
+"755",1029,"Ahmedabad","IND","Gujarat",2876710,72.5713621,23.022505
+"757",1031,"Kanpur","IND","Uttar Pradesh",1874409,80.3318736,26.449923
+"758",1032,"Nagpur","IND","Maharashtra",1624752,79.0881546,21.1458004
+"759",1033,"Lucknow","IND","Uttar Pradesh",1619115,80.946166,26.8466937
+"760",1034,"Pune","IND","Maharashtra",1566651,73.8567437,18.5204303
+"761",1035,"Surat","IND","Gujarat",1498817,72.8310607,21.1702401
+"762",1036,"Jaipur","IND","Rajasthan",1458483,75.7872709,26.9124336
+"763",1037,"Indore","IND","Madhya Pradesh",1091674,75.8577258,22.7195687
+"764",1038,"Bhopal","IND","Madhya Pradesh",1062771,77.412615,23.2599333
+"765",1039,"Ludhiana","IND","Punjab",1042740,75.8572758,30.900965
+"767",1041,"Kalyan","IND","Maharashtra",1014557,73.1305395,19.2403305
+"769",1043,"Haora (Howrah)","IND","West Bengali",950435,88.2636394,22.5957689
+"770",1044,"Varanasi (Benares)","IND","Uttar Pradesh",929270,82.9739144,25.3176452
+"771",1045,"Patna","IND","Bihar",917243,85.1375645,25.5940947
+"772",1046,"Srinagar","IND","Jammu and Kashmir",892506,74.7972825,34.0836708
+"773",1047,"Agra","IND","Uttar Pradesh",891790,78.0080745,27.1766701
+"775",1049,"Thane (Thana)","IND","Maharashtra",803389,72.9780897,19.2183307
+"776",1050,"Allahabad","IND","Uttar Pradesh",792858,81.846311,25.4358011
+"777",1051,"Meerut","IND","Uttar Pradesh",753778,77.7064137,28.9844618
+"778",1052,"Vishakhapatnam","IND","Andhra Pradesh",752037,83.2184815,17.6868159
+"779",1053,"Jabalpur","IND","Madhya Pradesh",741927,79.9864071,23.181467
+"780",1054,"Amritsar","IND","Punjab",708835,74.8722642,31.6339793
+"781",1055,"Faridabad","IND","Haryana",703592,77.3177894,28.4089123
+"783",1057,"Gwalior","IND","Madhya Pradesh",690765,78.1828308,26.2182871
+"784",1058,"Jodhpur","IND","Rajasthan",666279,73.0243094,26.2389469
+"785",1059,"Nashik (Nasik)","IND","Maharashtra",656925,73.7898023,19.9974533
+"787",1061,"Solapur (Sholapur)","IND","Maharashtra",604215,75.9063906,17.6599188
+"788",1062,"Ranchi","IND","Jharkhand",599306,85.309562,23.3440997
+"789",1063,"Bareilly","IND","Uttar Pradesh",587211,79.4304381,28.3670355
+"790",1064,"Guwahati (Gauhati)","IND","Assam",584342,91.7362365,26.1445169
+"791",1065,"Shambajinagar (Aurangabad)","IND","Maharashtra",573272,75.3186241,19.9114575
+"793",1067,"Rajkot","IND","Gujarat",559407,70.8021599,22.3038945
+"794",1068,"Kota","IND","Rajasthan",537371,75.9927652,25.0869886
+"796",1070,"Pimpri-Chinchwad","IND","Maharashtra",517083,73.7997094,18.6297811
+"797",1071,"Jalandhar (Jullundur)","IND","Punjab",509510,75.5761829,31.3260152
+"798",1072,"Gorakhpur","IND","Uttar Pradesh",505566,75.6702647,29.4438165
+"799",1073,"Chandigarh","IND","Chandigarh",504094,76.7794179,30.7333148
+"800",1074,"Mysore","IND","Karnataka",480692,76.6393805,12.2958104
+"801",1075,"Aligarh","IND","Uttar Pradesh",480520,78.0880129,27.8973944
+"802",1076,"Guntur","IND","Andhra Pradesh",471051,80.4365402,16.3066525
+"803",1077,"Jamshedpur","IND","Jharkhand",460577,86.2028754,22.8045665
+"804",1078,"Ghaziabad","IND","Uttar Pradesh",454156,77.4537578,28.6691565
+"805",1079,"Warangal","IND","Andhra Pradesh",447657,79.5940544,17.9689008
+"806",1080,"Raipur","IND","Chhatisgarh",438639,81.6296413,21.2513844
+"807",1081,"Moradabad","IND","Uttar Pradesh",429214,78.7733286,28.8386481
+"808",1082,"Durgapur","IND","West Bengali",425836,87.3119227,23.5204443
+"809",1083,"Amravati","IND","Maharashtra",421576,77.7795513,20.9374238
+"810",1084,"Calicut (Kozhikode)","IND","Kerala",419831,75.78041,11.2587531
+"811",1085,"Bikaner","IND","Rajasthan",416289,73.3119159,28.0229348
+"812",1086,"Bhubaneswar","IND","Orissa",411542,85.8245398,20.2960587
+"813",1087,"Kolhapur","IND","Maharashtra",406370,74.2432527,16.7049873
+"814",1088,"Kataka (Cuttack)","IND","Orissa",403418,85.8829895,20.462521
+"815",1089,"Ajmer","IND","Rajasthan",402700,74.6399163,26.4498954
+"816",1090,"Bhavnagar","IND","Gujarat",402338,72.1519304,21.7644725
+"817",1091,"Tiruchirapalli","IND","Tamil Nadu",387223,78.7046725,10.7904833
+"818",1092,"Bhilai","IND","Chhatisgarh",386159,81.3509416,21.1938475
+"819",1093,"Bhiwandi","IND","Maharashtra",379070,73.0482912,19.2812547
+"820",1094,"Saharanpur","IND","Uttar Pradesh",374945,77.5510172,29.967079
+"821",1095,"Ulhasnagar","IND","Maharashtra",369077,73.1644628,19.2215115
+"823",1097,"Ujjain","IND","Madhya Pradesh",362266,75.7849097,23.1793013
+"824",1098,"Malegaon","IND","Maharashtra",342595,74.5100291,20.5547497
+"825",1099,"Jamnagar","IND","Gujarat",341637,70.05773,22.4707019
+"827",1101,"Akola","IND","Maharashtra",328034,-96.7881765,32.8491903
+"828",1102,"Belgaum","IND","Karnataka",326399,74.4976741,15.8496953
+"831",1105,"Udaipur","IND","Rajasthan",308571,73.712479,24.585445
+"833",1107,"Bhatpara","IND","West Bengali",304952,88.406454,22.8562412
+"834",1108,"Gulbarga","IND","Karnataka",304099,76.8342957,17.329731
+"835",1109,"New Delhi","IND","Delhi",301297,77.2090212,28.6139391
+"836",1110,"Jhansi","IND","Uttar Pradesh",300850,78.5684594,25.4484257
+"837",1111,"Gaya","IND","Bihar",291675,85.0002336,24.7913957
+"838",1112,"Kakinada","IND","Andhra Pradesh",279980,82.2474648,16.9890648
+"840",1114,"Panihati","IND","West Bengali",275990,88.3991789,22.6983108
+"841",1115,"Nanded (Nander)","IND","Maharashtra",275083,77.3209555,19.1382514
+"842",1116,"Mangalore","IND","Karnataka",273304,74.8559568,12.9141417
+"844",1118,"Kamarhati","IND","West Bengali",266889,88.3706491,22.6846668
+"845",1119,"Davangere","IND","Karnataka",266082,75.921758,14.4644085
+"846",1120,"Asansol","IND","West Bengali",262188,86.9523954,23.6739452
+"847",1121,"Bhagalpur","IND","Bihar",253225,86.9824288,25.3478004
+"848",1122,"Bellary","IND","Karnataka",245391,76.9214428,15.1393932
+"849",1123,"Barddhaman (Burdwan)","IND","West Bengali",245079,87.8614793,23.2324214
+"850",1124,"Rampur","IND","Uttar Pradesh",243742,79.0249516,28.7893041
+"851",1125,"Jalgaon","IND","Maharashtra",242193,75.5626039,21.0076578
+"852",1126,"Muzaffarpur","IND","Bihar",241107,85.3647201,26.1208876
+"853",1127,"Nizamabad","IND","Andhra Pradesh",241034,78.0940867,18.6725047
+"854",1128,"Muzaffarnagar","IND","Uttar Pradesh",240609,77.7085091,29.4726817
+"855",1129,"Patiala","IND","Punjab",238368,76.3868797,30.3397809
+"856",1130,"Shahjahanpur","IND","Uttar Pradesh",237713,79.9122455,27.883744
+"857",1131,"Kurnool","IND","Andhra Pradesh",236800,78.0372792,15.8281257
+"858",1132,"Tiruppur (Tirupper)","IND","Tamil Nadu",235661,77.3410656,11.1085242
+"859",1133,"Rohtak","IND","Haryana",233400,76.606611,28.8955152
+"860",1134,"South Dum Dum","IND","West Bengali",232811,88.3967536,22.6059435
+"861",1135,"Mathura","IND","Uttar Pradesh",226691,77.673673,27.4924134
+"862",1136,"Chandrapur","IND","Maharashtra",226105,79.3014845,19.9704597
+"863",1137,"Barahanagar (Baranagar)","IND","West Bengali",224821,88.3654386,22.6383016
+"864",1138,"Darbhanga","IND","Bihar",218391,85.896004,26.111868
+"865",1139,"Siliguri (Shiliguri)","IND","West Bengali",216950,88.3952861,26.7271012
+"866",1140,"Raurkela","IND","Orissa",215489,84.8535844,22.260423
+"867",1141,"Ambattur","IND","Tamil Nadu",215424,80.1480551,13.1143167
+"868",1142,"Panipat","IND","Haryana",215218,76.9635023,29.3909464
+"869",1143,"Firozabad","IND","Uttar Pradesh",215128,78.3957331,27.1591961
+"870",1144,"Ichalkaranji","IND","Maharashtra",214950,74.4560807,16.7090008
+"871",1145,"Jammu","IND","Jammu and Kashmir",214737,74.8570259,32.7266016
+"872",1146,"Ramagundam","IND","Andhra Pradesh",214384,79.5133701,18.7518652
+"874",1148,"Brahmapur","IND","Orissa",210418,84.7940911,19.3149618
+"875",1149,"Alwar","IND","Rajasthan",205086,76.6345735,27.5529907
+"876",1150,"Pondicherry","IND","Pondicherry",203065,79.8144722,11.9138598
+"879",1153,"Tuticorin","IND","Tamil Nadu",199854,78.1348361,8.7641661
+"880",1154,"Imphal","IND","Manipur",198535,93.9368439,24.8170111
+"881",1155,"Latur","IND","Maharashtra",197408,76.5603828,18.4087934
+"882",1156,"Sagar","IND","Madhya Pradesh",195346,78.7378068,23.838805
+"884",1158,"Sangli","IND","Maharashtra",193197,74.5814773,16.8523973
+"885",1159,"Parbhani","IND","Maharashtra",190255,76.776665,19.2609958
+"886",1160,"Nagar Coil","IND","Tamil Nadu",190084,77.4118996,8.1832857
+"887",1161,"Bijapur","IND","Karnataka",186939,75.710031,16.8301708
+"888",1162,"Kukatpalle","IND","Andhra Pradesh",185378,78.3996441,17.4947934
+"890",1164,"Bhilwara","IND","Rajasthan",183965,74.586953,25.321377
+"891",1165,"Ratlam","IND","Madhya Pradesh",183375,75.0376325,23.3341696
+"892",1166,"Avadi","IND","Tamil Nadu",183215,80.0969511,13.1067448
+"893",1167,"Dindigul","IND","Tamil Nadu",182477,77.9802906,10.3673123
+"894",1168,"Ahmadnagar","IND","Maharashtra",181339,74.7495916,19.0952075
+"896",1170,"Shimoga","IND","Karnataka",179258,75.568101,13.9299299
+"897",1171,"Kharagpur","IND","West Bengali",177989,87.2319753,22.34601
+"898",1172,"Mira Bhayandar","IND","Maharashtra",175372,72.8543897,19.2952325
+"899",1173,"Vellore","IND","Tamil Nadu",175061,79.1324986,12.9165167
+"900",1174,"Jalna","IND","Maharashtra",174985,75.8800305,19.8296893
+"902",1176,"Anantapur","IND","Andhra Pradesh",174924,77.6005911,14.6818877
+"903",1177,"Allappuzha (Alleppey)","IND","Kerala",174666,76.3388484,9.4980667
+"904",1178,"Tirupati","IND","Andhra Pradesh",174369,79.4191795,13.6287557
+"905",1179,"Karnal","IND","Haryana",173751,76.9904825,29.6856929
+"906",1180,"Burhanpur","IND","Madhya Pradesh",172710,76.2224273,21.3193875
+"907",1181,"Hisar (Hissar)","IND","Haryana",172677,75.7216527,29.1491875
+"908",1182,"Tiruvottiyur","IND","Tamil Nadu",172562,80.3045793,13.1691914
+"909",1183,"Mirzapur-cum-Vindhyachal","IND","Uttar Pradesh",169336,82.5036997,25.1577106
+"910",1184,"Secunderabad","IND","Andhra Pradesh",167461,78.4982741,17.4399295
+"911",1185,"Nadiad","IND","Gujarat",167051,72.8633635,22.6915853
+"912",1186,"Dewas","IND","Madhya Pradesh",164364,76.0507949,22.9622672
+"913",1187,"Murwara (Katni)","IND","Madhya Pradesh",163431,80.4072255,23.8308453
+"914",1188,"Ganganagar","IND","Rajasthan",161482,73.8771901,29.9038399
+"916",1190,"Erode","IND","Tamil Nadu",159232,77.7171642,11.3410364
+"917",1191,"Machilipatnam (Masulipatam)","IND","Andhra Pradesh",159110,81.1361543,16.1905457
+"918",1192,"Bhatinda (Bathinda)","IND","Punjab",159042,74.9454745,30.210994
+"919",1193,"Raichur","IND","Karnataka",157551,77.3439283,16.2120031
+"920",1194,"Agartala","IND","Tripura",157358,91.2867777,23.831457
+"921",1195,"Arrah (Ara)","IND","Bihar",157082,84.6603307,25.5560443
+"922",1196,"Satna","IND","Madhya Pradesh",156630,80.8322428,24.6005075
+"923",1197,"Lalbahadur Nagar","IND","Andhra Pradesh",155500,78.5522296,17.3457176
+"924",1198,"Aizawl","IND","Mizoram",155240,92.7176389,23.727107
+"925",1199,"Uluberia","IND","West Bengali",155172,88.1000377,22.4744363
+"926",1200,"Katihar","IND","Bihar",154367,87.5718609,25.552048
+"928",1202,"Hugli-Chinsurah","IND","West Bengali",151806,88.3919026,22.8858771
+"929",1203,"Dhanbad","IND","Jharkhand",151789,86.4303859,23.7956531
+"930",1204,"Raiganj","IND","West Bengali",151045,88.1255837,25.6185295
+"931",1205,"Sambhal","IND","Uttar Pradesh",150869,78.5717631,28.5903614
+"932",1206,"Durg","IND","Chhatisgarh",150645,81.2849169,21.1904494
+"934",1208,"Kanchipuram","IND","Tamil Nadu",150100,79.7036402,12.8341735
+"935",1209,"North Dum Dum","IND","West Bengali",149965,88.4258483,22.6658076
+"936",1210,"Karimnagar","IND","Andhra Pradesh",148583,79.1288412,18.4385553
+"937",1211,"Bharatpur","IND","Rajasthan",148519,77.489515,27.216981
+"939",1213,"Hardwar (Haridwar)","IND","Uttaranchal",147305,78.1642478,29.9456906
+"941",1215,"Morena","IND","Madhya Pradesh",147124,77.9909949,26.4933562
+"945",1219,"Khandwa","IND","Madhya Pradesh",145133,76.352571,21.8257334
+"950",1224,"Kollam (Quilon)","IND","Kerala",139852,76.6141396,8.8932118
+"951",1225,"Kumbakonam","IND","Tamil Nadu",139483,79.3881132,10.9616945
+"952",1226,"Ingraj Bazar (English Bazar)","IND","West Bengali",139204,88.1410967,25.0108408
+"953",1227,"Timkur","IND","Karnataka",138903,77.1139984,13.3391677
+"955",1229,"Serampore","IND","West Bengali",137028,88.3385053,22.748331
+"958",1232,"Maunath Bhanjan","IND","Uttar Pradesh",136697,83.5586445,25.9496379
+"959",1233,"Adoni","IND","Andhra Pradesh",136182,77.2728368,15.6322227
+"960",1234,"Jaunpur","IND","Uttar Pradesh",136062,82.6987002,25.7490034
+"961",1235,"Tirunelveli","IND","Tamil Nadu",135825,77.7566523,8.7139126
+"962",1236,"Bahraich","IND","Uttar Pradesh",135400,81.5980246,27.5708377
+"963",1237,"Gadag Betigeri","IND","Karnataka",134051,75.6380337,15.4324651
+"964",1238,"Proddatur","IND","Andhra Pradesh",133914,78.5531577,14.7491864
+"965",1239,"Chittoor","IND","Andhra Pradesh",133462,79.1003289,13.217176
+"966",1240,"Barrackpur","IND","West Bengali",133265,88.3883455,22.7674278
+"967",1241,"Bharuch (Broach)","IND","Gujarat",133102,72.9958748,21.7051358
+"968",1242,"Naihati","IND","West Bengali",132701,88.4220324,22.8928724
+"969",1243,"Shillong","IND","Meghalaya",131719,91.8932535,25.5787726
+"970",1244,"Sambalpur","IND","Orissa",131138,83.9811665,21.4668716
+"971",1245,"Junagadh","IND","Gujarat",130484,70.4578768,21.522184
+"973",1247,"Rewa","IND","Madhya Pradesh",128981,-82.364862,34.799194
+"974",1248,"Gurgaon","IND","Haryana",128608,77.0266383,28.4594965
+"975",1249,"Khammam","IND","Andhra Pradesh",127992,80.1514447,17.2472528
+"976",1250,"Bulandshahr","IND","Uttar Pradesh",127201,77.8498292,28.406963
+"978",1252,"Malkajgiri","IND","Andhra Pradesh",126066,78.5337625,17.4491041
+"979",1253,"Midnapore (Medinipur)","IND","West Bengali",125498,87.3214908,22.4308892
+"980",1254,"Miraj","IND","Maharashtra",125407,74.6424728,16.8165015
+"981",1255,"Raj Nandgaon","IND","Chhatisgarh",125371,81.0302222,21.0971034
+"982",1256,"Alandur","IND","Tamil Nadu",125244,80.2006371,12.9974873
+"984",1258,"Navadwip","IND","West Bengali",125037,88.3676393,23.4036446
+"985",1259,"Sirsa","IND","Haryana",125000,75.0177029,29.5335931
+"986",1260,"Korba","IND","Chhatisgarh",124501,82.7500595,22.3594501
+"987",1261,"Faizabad","IND","Uttar Pradesh",124437,82.1441643,26.7732476
+"988",1262,"Etawah","IND","Uttar Pradesh",124072,79.0046898,26.8117116
+"989",1263,"Pathankot","IND","Punjab",123930,75.6421121,32.2643375
+"990",1264,"Gandhinagar","IND","Gujarat",123359,72.6369415,23.2156354
+"992",1266,"Veraval","IND","Gujarat",123000,70.3628516,20.9158979
+"993",1267,"Hoshiarpur","IND","Punjab",122705,75.911483,31.5143178
+"994",1268,"Ambala","IND","Haryana",122596,76.7766974,30.3781788
+"997",1271,"Cuddapah","IND","Andhra Pradesh",121463,78.8241339,14.4673541
+"998",1272,"Bhimavaram","IND","Andhra Pradesh",121314,81.521241,16.544893
+"1002",1276,"Dibrugarh","IND","Assam",120127,94.9119621,27.4728327
+"1003",1277,"Nandyal","IND","Andhra Pradesh",119813,78.4830934,15.4785694
+"1004",1278,"Balurghat","IND","West Bengali",119796,88.7830612,25.2372834
+"1005",1279,"Neyveli","IND","Tamil Nadu",118080,79.4760133,11.5432364
+"1006",1280,"Fatehpur","IND","Uttar Pradesh",117675,80.8986502,25.8499808
+"1007",1281,"Mahbubnagar","IND","Andhra Pradesh",116833,78.0081221,16.7375089
+"1008",1282,"Budaun","IND","Uttar Pradesh",116695,79.1271229,28.0311101
+"1009",1283,"Porbandar","IND","Gujarat",116671,69.6292654,21.6417069
+"1010",1284,"Silchar","IND","Assam",115483,92.7789054,24.8332708
+"1011",1285,"Berhampore (Baharampur)","IND","West Bengali",115144,88.2679264,24.0988265
+"1012",1286,"Purnea (Purnia)","IND","Jharkhand",114912,87.4752551,25.7771391
+"1013",1287,"Bankura","IND","West Bengali",114876,87.0624261,23.164543
+"1014",1288,"Rajapalaiyam","IND","Tamil Nadu",114202,77.5275463,9.4653377
+"1016",1290,"Halisahar","IND","West Bengali",114028,88.4193259,22.9441261
+"1017",1291,"Hathras","IND","Uttar Pradesh",113285,78.0537813,27.6056212
+"1018",1292,"Bhir (Bid)","IND","Maharashtra",112434,75.7600785,18.9890893
+"1019",1293,"Pallavaram","IND","Tamil Nadu",111866,80.1526888,12.9673484
+"1020",1294,"Anand","IND","Gujarat",110266,72.928871,22.5645175
+"1021",1295,"Mango","IND","Jharkhand",110024,-73.9636357,41.5022347
+"1022",1296,"Santipur","IND","West Bengali",109956,88.4380966,23.2645399
+"1023",1297,"Bhind","IND","Madhya Pradesh",109755,78.7872876,26.5587354
+"1024",1298,"Gondiya","IND","Maharashtra",109470,80.2209773,21.4624491
+"1025",1299,"Tiruvannamalai","IND","Tamil Nadu",109196,79.0746957,12.2252841
+"1026",1300,"Yeotmal (Yavatmal)","IND","Maharashtra",108578,78.1204073,20.3887937
+"1027",1301,"Kulti-Barakar","IND","West Bengali",108518,86.8181378,23.7392879
+"1028",1302,"Moga","IND","Punjab",108304,-89.8079106,35.0897589
+"1029",1303,"Shivapuri","IND","Madhya Pradesh",108277,85.3847015,27.8120772
+"1030",1304,"Bidar","IND","Karnataka",108016,77.5046101,17.9148799
+"1031",1305,"Guntakal","IND","Andhra Pradesh",107592,77.3736238,15.1674091
+"1032",1306,"Unnao","IND","Uttar Pradesh",107425,80.4878195,26.5393449
+"1033",1307,"Barasat","IND","West Bengali",107365,88.480552,22.7228159
+"1034",1308,"Tambaram","IND","Tamil Nadu",107187,80.1274558,12.9229153
+"1035",1309,"Abohar","IND","Punjab",107163,74.1993043,30.1452928
+"1036",1310,"Pilibhit","IND","Uttar Pradesh",106605,79.8128649,28.6207939
+"1038",1312,"Gonda","IND","Uttar Pradesh",106078,81.9534815,27.0374187
+"1039",1313,"Surendranagar","IND","Gujarat",105973,71.6673352,22.7738938
+"1040",1314,"Qutubullapur","IND","Andhra Pradesh",105380,78.4622467,17.4979684
+"1042",1316,"Hindupur","IND","Andhra Pradesh",104651,77.4988753,13.8185378
+"1043",1317,"Gandhidham","IND","Gujarat",104585,70.133673,23.075297
+"1044",1318,"Haldwani-cum-Kathgodam","IND","Uttaranchal",104195,79.5129767,29.2182644
+"1045",1319,"Tellicherry (Thalassery)","IND","Kerala",103579,75.4928777,11.7532878
+"1047",1321,"Rishra","IND","West Bengali",102649,88.3287896,22.7244023
+"1048",1322,"Bhuj","IND","Gujarat",102176,69.6669324,23.2419997
+"1049",1323,"Modinagar","IND","Uttar Pradesh",101660,77.5779592,28.8316307
+"1050",1324,"Gudivada","IND","Andhra Pradesh",101656,80.9926327,16.4410255
+"1051",1325,"Basirhat","IND","West Bengali",101409,88.8671766,22.6574017
+"1053",1327,"Ongole","IND","Andhra Pradesh",100836,80.049922,15.5057232
+"1054",1328,"North Barrackpur","IND","West Bengali",100513,88.367179,22.7902358
+"1057",1331,"Habra","IND","West Bengali",100223,-117.946137,33.9318591
+"1058",1332,"Kanchrapara","IND","West Bengali",100194,88.4335019,22.944101
+"1059",1333,"Tonk","IND","Rajasthan",100079,75.7894716,26.1620402
+"1062",1336,"Pudukkottai","IND","Tamil Nadu",98619,78.8208454,10.379663
+"1064",1338,"Hazaribag","IND","Jharkhand",97712,85.3691068,23.9966213
+"1066",1340,"Banda","IND","Uttar Pradesh",97227,80.3380213,25.4796224
+"1067",1341,"Godhra","IND","Gujarat",96813,73.6142795,22.7788044
+"1069",1343,"Ashoknagar-Kalyangarh","IND","West Bengali",96315,88.6316982,22.8333356
+"1070",1344,"Achalpur","IND","Maharashtra",96216,77.5086754,21.257584
+"1072",1346,"Mandasor","IND","Madhya Pradesh",95758,75.0692952,24.076836
+"1073",1347,"Damoh","IND","Madhya Pradesh",95661,79.4421731,23.8380986
+"1074",1348,"Satara","IND","Maharashtra",95133,74.018261,17.6804639
+"1075",1349,"Meerut Cantonment","IND","Uttar Pradesh",94876,77.6994612,29.0013504
+"1076",1350,"Dehri","IND","Bihar",94526,84.1909841,24.9277351
+"1077",1351,"Delhi Cantonment","IND","Delhi",94326,77.1587375,28.5961279
+"1078",1352,"Chhindwara","IND","Madhya Pradesh",93731,78.9381729,22.057437
+"1079",1353,"Bansberia","IND","West Bengali",93447,88.3967536,22.9633531
+"1080",1354,"Nagaon","IND","Assam",93350,92.6840426,26.3463713
+"1081",1355,"Kanpur Cantonment","IND","Uttar Pradesh",93109,80.3714326,26.4418399
+"1082",1356,"Vidisha","IND","Madhya Pradesh",92917,77.8081363,23.5251102
+"1083",1357,"Bettiah","IND","Bihar",92583,84.5169757,26.8028048
+"1084",1358,"Purulia","IND","Jharkhand",92574,86.365208,23.3320779
+"1085",1359,"Hassan","IND","Karnataka",90803,76.1783739,13.0752578
+"1086",1360,"Ambala Sadar","IND","Haryana",90712,76.8378042,30.3354758
+"1087",1361,"Baidyabati","IND","West Bengali",90601,88.3190717,22.795783
+"1088",1362,"Morvi","IND","Gujarat",90357,70.8236195,22.8119895
+"1089",1363,"Raigarh","IND","Chhatisgarh",89166,83.3949632,21.8974003
+"1090",1364,"Vejalpur","IND","Gujarat",89053,73.5626805,22.6898334
+"1091",1365,"Baghdad","IRQ","Baghdad",4336000,44.3614875,33.3128057
+"1092",1366,"Mosul","IRQ","Ninawa",879000,43.1640004,36.3566484
+"1093",1367,"Irbil","IRQ","Irbil",485968,44.0088697,36.2062933
+"1094",1368,"Kirkuk","IRQ","al-Tamim",418624,44.3803921,35.4655761
+"1095",1369,"Basra","IRQ","Basra",406296,47.7834888,30.5081033
+"1096",1370,"al-Sulaymaniya","IRQ","al-Sulaymaniya",364096,45.4359425,35.5570454
+"1097",1371,"al-Najaf","IRQ","al-Najaf",309010,44.3331165,32.027376
+"1098",1372,"Karbala","IRQ","Karbala",296705,44.0103922,32.6068464
+"1099",1373,"al-Hilla","IRQ","Babil",268834,44.4276206,32.4773359
+"1100",1374,"al-Nasiriya","IRQ","DhiQar",265937,46.2665911,31.0452345
+"1101",1375,"al-Amara","IRQ","Maysan",208797,47.1459597,31.8496076
+"1102",1376,"al-Diwaniya","IRQ","al-Qadisiya",196519,44.9066503,31.9641427
+"1103",1377,"al-Ramadi","IRQ","al-Anbar",192556,43.2811579,33.4352789
+"1104",1378,"al-Kut","IRQ","Wasit",183183,45.846961,32.5168459
+"1105",1379,"Baquba","IRQ","Diyala",114516,44.6066578,33.7596413
+"1106",1380,"Teheran","IRN","Teheran",6758845,51.3889736,35.6891975
+"1107",1381,"Mashhad","IRN","Khorasan",1887405,59.6167549,36.2604623
+"1109",1383,"Tabriz","IRN","East Azerbaidzan",1191043,46.2738013,38.096239
+"1110",1384,"Shiraz","IRN","Fars",1053025,52.5836982,29.5917677
+"1111",1385,"Karaj","IRN","Teheran",940968,50.9390906,35.8400188
+"1113",1387,"Qom","IRN","Qom",777677,50.8759419,34.6399443
+"1114",1388,"Kermanshah","IRN","Kermanshah",692986,47.0777685,34.3276924
+"1115",1389,"Urmia","IRN","West Azerbaidzan",435200,45.0786282,37.5498061
+"1116",1390,"Zahedan","IRN","Sistan va Baluchesta",419518,60.8841983,29.451926
+"1117",1391,"Rasht","IRN","Gilan",417748,49.5891233,37.2682177
+"1120",1394,"Arak","IRN","Markazi",380755,49.7013486,34.0953553
+"1121",1395,"Ardebil","IRN","Ardebil",340386,48.2999901,38.2537363
+"1122",1396,"Yazd","IRN","Yazd",326776,54.3568562,31.8974232
+"1124",1398,"Zanjan","IRN","Zanjan",286295,48.5087209,36.6830045
+"1125",1399,"Sanandaj","IRN","Kordestan",277808,46.9861647,35.3218748
+"1126",1400,"Bandar-e-Abbas","IRN","Hormozgan",273578,56.2666455,27.1832216
+"1127",1401,"Khorramabad","IRN","Lorestan",272815,48.3389644,33.4646833
+"1128",1402,"Eslamshahr","IRN","Teheran",265450,51.2302457,35.5445805
+"1129",1403,"Borujerd","IRN","Lorestan",217804,48.767033,33.8941993
+"1130",1404,"Abadan","IRN","Khuzestan",206073,48.2934004,30.347296
+"1131",1405,"Dezful","IRN","Khuzestan",202639,48.4235841,32.3830777
+"1132",1406,"Kashan","IRN","Esfahan",201372,51.4099625,33.9850358
+"1133",1407,"Sari","IRN","Mazandaran",195882,53.0586328,36.5658729
+"1134",1408,"Gorgan","IRN","Golestan",188710,54.4393363,36.8456427
+"1135",1409,"Najafabad","IRN","Esfahan",178498,51.3679914,32.6324231
+"1136",1410,"Sabzevar","IRN","Khorasan",170738,57.6678228,36.2151823
+"1137",1411,"Khomeynishahr","IRN","Esfahan",165888,51.5360368,32.69326
+"1138",1412,"Amol","IRN","Mazandaran",159092,52.350694,36.4676264
+"1139",1413,"Neyshabur","IRN","Khorasan",158847,58.7960915,36.2140865
+"1140",1414,"Babol","IRN","Mazandaran",158346,52.6764543,36.5386629
+"1142",1416,"Malayer","IRN","Hamadan",144373,48.8145943,34.3020001
+"1143",1417,"Bushehr","IRN","Bushehr",143641,50.820314,28.9233837
+"1144",1418,"Qaemshahr","IRN","Mazandaran",143286,52.8634197,36.4683746
+"1146",1420,"Qods","IRN","Teheran",138278,51.1062824,35.70265
+"1147",1421,"Sirjan","IRN","Kerman",135024,55.6714051,29.4586676
+"1148",1422,"Bojnurd","IRN","Khorasan",134835,57.3143348,37.4702063
+"1149",1423,"Maragheh","IRN","East Azerbaidzan",132318,46.2533882,37.3891966
+"1150",1424,"Birjand","IRN","Khorasan",127608,59.2262472,32.8649039
+"1151",1425,"Ilam","IRN","Ilam",126346,46.415281,33.6349736
+"1152",1426,"Bukan","IRN","West Azerbaidzan",120020,46.2094316,36.518696
+"1153",1427,"Masjed-e-Soleyman","IRN","Khuzestan",116883,49.2892129,31.9633663
+"1154",1428,"Saqqez","IRN","Kordestan",115394,46.2779705,36.2389448
+"1155",1429,"Gonbad-e Qabus","IRN","Mazandaran",111253,55.1596592,37.2406676
+"1156",1430,"Saveh","IRN","Qom",111245,50.3585065,35.0236107
+"1157",1431,"Mahabad","IRN","West Azerbaidzan",107799,45.7337091,36.7683527
+"1158",1432,"Varamin","IRN","Teheran",107233,51.6471987,35.3252407
+"1159",1433,"Andimeshk","IRN","Khuzestan",106923,48.3489356,32.4538139
+"1160",1434,"Khorramshahr","IRN","Khuzestan",105636,48.1891185,30.4256219
+"1161",1435,"Shahrud","IRN","Semnan",104765,55.016269,36.4062241
+"1162",1436,"Marv Dasht","IRN","Fars",103579,52.8205515,29.878738
+"1164",1438,"Shahr-e Kord","IRN","Chaharmahal va Bakht",100477,50.8768541,32.3282386
+"1165",1439,"Bandar-e Anzali","IRN","Gilan",98500,49.4798635,37.4639089
+"1166",1440,"Rafsanjan","IRN","Kerman",98300,56.002705,30.3548893
+"1167",1441,"Marand","IRN","East Azerbaidzan",96400,-71.4317981,46.7509021
+"1168",1442,"Torbat-e Heydariyeh","IRN","Khorasan",94600,59.216145,35.279843
+"1169",1443,"Jahrom","IRN","Fars",94200,53.5743866,28.5177435
+"1170",1444,"Semnan","IRN","Semnan",91045,54.4342138,35.2255585
+"1171",1445,"Miandoab","IRN","West Azerbaidzan",90100,46.1053782,36.9594997
+"1173",1447,"Dublin","IRL","Leinster",481854,-6.2603097,53.3498053
+"1174",1448,"Cork","IRL","Munster",127187,-8.4863157,51.8968917
+"1175",1450,"Jerusalem","ISR","Jerusalem",633700,35.21371,31.768319
+"1177",1452,"Haifa","ISR","Haifa",265700,34.989571,32.7940463
+"1178",1453,"Rishon Le Ziyyon","ISR","Ha Merkaz",188200,34.7925013,31.9730015
+"1179",1454,"Beerseba","ISR","Ha Darom",163700,34.791462,31.252973
+"1180",1455,"Holon","ISR","Tel Aviv",163100,34.787384,32.015833
+"1181",1456,"Petah Tiqwa","ISR","Ha Merkaz",159400,34.887762,32.084041
+"1182",1457,"Ashdod","ISR","Ha Darom",155800,34.655314,31.804381
+"1184",1459,"Bat Yam","ISR","Tel Aviv",137000,34.748019,32.013186
+"1185",1460,"Bene Beraq","ISR","Tel Aviv",133900,34.835226,32.084932
+"1187",1462,"Ashqelon","ISR","Ha Darom",92300,34.5742523,31.6687885
+"1188",1463,"Rehovot","ISR","Ha Merkaz",90300,34.811272,31.892773
+"1189",1464,"Roma","ITA","Latium",2643581,12.4963655,41.9027835
+"1190",1465,"Milano","ITA","Lombardia",1300977,-94.5823061,39.0825197
+"1191",1466,"Napoli","ITA","Campania",1002619,-97.878004,36.394466
+"1192",1467,"Torino","ITA","Piemonte",903705,7.6868565,45.070312
+"1193",1468,"Palermo","ITA","Sisilia",683794,13.3612671,38.1156879
+"1194",1469,"Genova","ITA","Liguria",636104,-97.3393788,38.0320628
+"1195",1470,"Bologna","ITA","Emilia-Romagna",381161,11.3426162,44.494887
+"1196",1471,"Firenze","ITA","Toscana",376662,11.2558136,43.7695604
+"1197",1472,"Catania","ITA","Sisilia",337862,15.0830304,37.5078772
+"1198",1473,"Bari","ITA","Apulia",331848,16.8718715,41.1171432
+"1199",1474,"Venezia","ITA","Veneto",277305,12.3155151,45.4408474
+"1200",1475,"Messina","ITA","Sisilia",259156,15.5540152,38.1938137
+"1201",1476,"Verona","ITA","Veneto",255268,10.9916215,45.4383842
+"1202",1477,"Trieste","ITA","Friuli-Venezia Giuli",216459,13.7768182,45.6495264
+"1203",1478,"Padova","ITA","Veneto",211391,11.8767611,45.4064349
+"1204",1479,"Taranto","ITA","Apulia",208214,17.2470303,40.4643606
+"1205",1480,"Brescia","ITA","Lombardia",191317,10.2118019,45.5415526
+"1206",1481,"Reggio di Calabria","ITA","Calabria",179617,15.6472914,38.1113006
+"1207",1482,"Modena","ITA","Emilia-Romagna",176022,10.9252269,44.647128
+"1209",1484,"Parma","ITA","Emilia-Romagna",168717,10.3279036,44.801485
+"1210",1485,"Cagliari","ITA","Sardinia",165926,9.1216613,39.2238411
+"1212",1487,"Perugia","ITA","Umbria",156673,12.3908279,43.1107168
+"1213",1488,"Foggia","ITA","Apulia",154891,15.5446302,41.4621984
+"1214",1490,"Salerno","ITA","Campania",142055,14.7680961,40.6824408
+"1215",1491,"Ravenna","ITA","Emilia-Romagna",138418,12.2035294,44.4183598
+"1216",1492,"Ferrara","ITA","Emilia-Romagna",132127,11.619787,44.8381237
+"1217",1493,"Rimini","ITA","Emilia-Romagna",131062,12.5695158,44.0678288
+"1218",1494,"Syrakusa","ITA","Sisilia",126282,15.2865861,37.0754739
+"1219",1495,"Sassari","ITA","Sardinia",120803,8.5556826,40.7259269
+"1220",1496,"Monza","ITA","Lombardia",119516,9.2744485,45.5845001
+"1222",1498,"Pescara","ITA","Abruzzit",115698,14.2160898,42.4617902
+"1223",1499,"Latina","ITA","Latium",114099,12.9035965,41.4675671
+"1224",1500,"Vicenza","ITA","Veneto",109738,11.5354214,45.5454787
+"1225",1501,"Terni","ITA","Umbria",107770,12.6426604,42.5636168
+"1229",1506,"Ancona","ITA","Marche",98329,13.518915,43.6158299
+"1230",1507,"Lecce","ITA","Apulia",98208,18.1750161,40.3515155
+"1231",1508,"Bolzano","ITA","Trentino-Alto Adige",97232,11.3547582,46.4982953
+"1233",1510,"La Spezia","ITA","Liguria",95504,9.8240826,44.1024504
+"1234",1511,"Udine","ITA","Friuli-Venezia Giuli",94932,13.2345794,46.0710668
+"1235",1512,"Torre del Greco","ITA","Campania",94505,14.367461,40.7894429
+"1236",1513,"Andria","ITA","Apulia",94443,16.22868,41.1382473
+"1238",1515,"Giugliano in Campania","ITA","Campania",93286,14.2032077,40.9285635
+"1239",1516,"Pisa","ITA","Toscana",92379,10.4016888,43.7228386
+"1240",1517,"Barletta","ITA","Apulia",91904,16.2838207,41.3196635
+"1241",1518,"Arezzo","ITA","Toscana",91729,11.8796336,43.4632839
+"1242",1519,"Alessandria","ITA","Piemonte",90289,8.6116796,44.9072727
+"1243",1520,"Cesena","ITA","Emilia-Romagna",89852,12.2464292,44.1396438
+"1244",1521,"Pesaro","ITA","Marche",88987,12.9155494,43.9124756
+"1245",1522,"Dili","TMP","Dili",47900,125.5603143,-8.5568557
+"1247",1524,"Graz","AUT","Steiermark",240967,15.439504,47.070714
+"1248",1525,"Linz","AUT","North Austria",188022,14.28583,48.30694
+"1249",1526,"Salzburg","AUT","Salzburg",144247,13.05501,47.80949
+"1250",1527,"Innsbruck","AUT","Tiroli",111752,11.4041024,47.2692124
+"1251",1529,"Spanish Town","JAM","St. Catherine",110379,-76.9758274,18.0193171
+"1252",1530,"Kingston","JAM","St. Andrew",103962,-0.300689,51.41233
+"1253",1531,"Portmore","JAM","St. Andrew",99799,-76.8893907,17.9611269
+"1255",1533,"Jokohama [Yokohama]","JPN","Kanagawa",3339594,139.6380256,35.4437078
+"1256",1534,"Osaka","JPN","Osaka",2595674,135.5021651,34.6937378
+"1257",1535,"Nagoya","JPN","Aichi",2154376,136.906398,35.1814464
+"1258",1536,"Sapporo","JPN","Hokkaido",1790886,141.3543763,43.0620958
+"1259",1537,"Kioto","JPN","Kyoto",1461974,135.7680294,35.0116363
+"1261",1539,"Fukuoka","JPN","Fukuoka",1308379,130.4017155,33.5903547
+"1262",1540,"Kawasaki","JPN","Kanagawa",1217359,-96.8838405,37.8164223
+"1263",1541,"Hiroshima","JPN","Hiroshima",1119117,132.4552927,34.3852029
+"1264",1542,"Kitakyushu","JPN","Fukuoka",1016264,130.8752161,33.8834093
+"1267",1545,"Sakai","JPN","Osaka",797735,-122.5271806,47.648463
+"1268",1546,"Kumamoto","JPN","Kumamoto",656734,130.7078911,32.8031004
+"1270",1548,"Sagamihara","JPN","Kanagawa",586300,139.3731765,35.5714621
+"1272",1550,"Kagoshima","JPN","Kagoshima",549977,130.5571158,31.5965535
+"1273",1551,"Funabashi","JPN","Chiba",545299,139.982618,35.6947058
+"1274",1552,"Higashiosaka","JPN","Osaka",517785,135.6010123,34.6793301
+"1275",1553,"Hachioji","JPN","Tokyo-to",513451,139.3158056,35.6663394
+"1277",1555,"Amagasaki","JPN","Hyogo",481434,135.4063757,34.7337339
+"1278",1556,"Himeji","JPN","Hyogo",475167,134.6853528,34.815149
+"1279",1557,"Shizuoka","JPN","Shizuoka",473854,138.3830845,34.9771201
+"1280",1558,"Urawa","JPN","Saitama",469675,-79.389215,43.648217
+"1281",1559,"Matsuyama","JPN","Ehime",466133,132.7655752,33.8391574
+"1282",1560,"Matsudo","JPN","Chiba",461126,139.903093,35.7876491
+"1284",1562,"Kawaguchi","JPN","Saitama",452155,139.7241712,35.8077379
+"1286",1564,"Omiya","JPN","Saitama",441649,139.6287539,35.9064871
+"1287",1565,"Utsunomiya","JPN","Tochigi",440353,139.8828072,36.5551124
+"1288",1566,"Oita","JPN","Oita",433401,131.6126189,33.2381718
+"1289",1567,"Nagasaki","JPN","Nagasaki",432759,129.877667,32.7502856
+"1292",1570,"Gifu","JPN","Gifu",408007,136.7606537,35.4232984
+"1293",1571,"Hirakata","JPN","Osaka",403151,135.6506583,34.8143402
+"1294",1572,"Nishinomiya","JPN","Hyogo",397618,135.3415643,34.7375965
+"1295",1573,"Toyonaka","JPN","Osaka",396689,135.4697387,34.7812658
+"1296",1574,"Wakayama","JPN","Wakayama",391233,135.1708083,34.2305113
+"1297",1575,"Fukuyama","JPN","Hiroshima",376921,133.3623127,34.4858993
+"1298",1576,"Fujisawa","JPN","Kanagawa",372840,139.490036,35.3391703
+"1299",1577,"Asahikawa","JPN","Hokkaido",364813,142.364819,43.7706355
+"1300",1578,"Machida","JPN","Tokyo-to",364197,139.4386186,35.546631
+"1301",1579,"Nara","JPN","Nara",362812,-94.5833279,39.0938571
+"1302",1580,"Takatsuki","JPN","Osaka",361747,135.6172716,34.8461585
+"1303",1581,"Iwaki","JPN","Fukushima",361737,140.8876817,37.0504195
+"1304",1582,"Nagano","JPN","Nagano",361391,138.1947709,36.6485829
+"1306",1584,"Toyota","JPN","Aichi",346090,-94.6747501,39.2934431
+"1307",1585,"Suita","JPN","Osaka",345750,135.51686,34.7594526
+"1308",1586,"Takamatsu","JPN","Kagawa",332471,134.046574,34.3427879
+"1309",1587,"Koriyama","JPN","Fukushima",330335,140.3597421,37.400529
+"1310",1588,"Okazaki","JPN","Aichi",328711,137.1743293,34.9543786
+"1311",1589,"Kawagoe","JPN","Saitama",327211,139.485793,35.9251006
+"1312",1590,"Tokorozawa","JPN","Saitama",325809,139.4686101,35.7996715
+"1313",1591,"Toyama","JPN","Toyama",325790,137.2136768,36.6959518
+"1314",1592,"Kochi","JPN","Kochi",324710,76.2673041,9.9312328
+"1315",1593,"Kashiwa","JPN","Chiba",320296,139.9758505,35.8676124
+"1316",1594,"Akita","JPN","Akita",314440,140.1035697,39.7199218
+"1317",1595,"Miyazaki","JPN","Miyazaki",303784,131.4238934,31.9110956
+"1318",1596,"Koshigaya","JPN","Saitama",301446,139.7909377,35.8910841
+"1319",1597,"Naha","JPN","Okinawa",299851,-87.6313406,41.8909584
+"1320",1598,"Aomori","JPN","Aomori",295969,140.7399984,40.8243077
+"1321",1599,"Hakodate","JPN","Hokkaido",294788,140.7288103,41.7687933
+"1322",1600,"Akashi","JPN","Hyogo",292253,-95.592266,30.358246
+"1323",1601,"Yokkaichi","JPN","Mie",288173,136.6244847,34.9651567
+"1324",1602,"Fukushima","JPN","Fukushima",287525,140.4747281,37.7608337
+"1325",1603,"Morioka","JPN","Iwate",287353,141.1544838,39.702053
+"1326",1604,"Maebashi","JPN","Gumma",284473,139.0634281,36.3894816
+"1327",1605,"Kasugai","JPN","Aichi",282348,136.9722236,35.247611
+"1328",1606,"Otsu","JPN","Shiga",282070,135.8546074,35.0178929
+"1329",1607,"Ichihara","JPN","Chiba",279280,140.1156648,35.4978377
+"1330",1608,"Yao","JPN","Osaka",276421,135.6009775,34.6268635
+"1331",1609,"Ichinomiya","JPN","Aichi",270828,136.8029326,35.3038899
+"1332",1610,"Tokushima","JPN","Tokushima",269649,134.5548438,34.0702703
+"1333",1611,"Kakogawa","JPN","Hyogo",266281,134.8411775,34.7569503
+"1334",1612,"Ibaraki","JPN","Osaka",261020,140.4467935,36.3418112
+"1335",1613,"Neyagawa","JPN","Osaka",257315,135.6280998,34.7660929
+"1337",1615,"Yamagata","JPN","Yamagata",255617,140.3636333,38.2404355
+"1338",1616,"Fukui","JPN","Fukui",254818,136.2215269,36.0651779
+"1340",1618,"Mito","JPN","Ibaragi",246559,-85.889426,41.696205
+"1341",1619,"Sasebo","JPN","Nagasaki",244240,129.7151101,33.1799153
+"1342",1620,"Hachinohe","JPN","Aomori",242979,141.4883986,40.5122839
+"1343",1621,"Takasaki","JPN","Gumma",239124,139.0032936,36.3219088
+"1344",1622,"Shimizu","JPN","Shizuoka",239123,-122.2493963,37.8285615
+"1345",1623,"Kurume","JPN","Fukuoka",235611,130.5083735,33.3192865
+"1346",1624,"Fuji","JPN","Shizuoka",231527,-95.8847746,36.0600291
+"1348",1626,"Fuchu","JPN","Tokyo-to",220576,139.4776614,35.6689735
+"1350",1628,"Atsugi","JPN","Kanagawa",212407,139.3624889,35.4430818
+"1351",1629,"Numazu","JPN","Shizuoka",211382,138.8634925,35.0955842
+"1352",1630,"Ageo","JPN","Saitama",209442,139.5932055,35.9773805
+"1353",1631,"Yamato","JPN","Kanagawa",208234,-97.486604,35.225886
+"1354",1632,"Matsumoto","JPN","Nagano",206801,137.9720341,36.2380381
+"1355",1633,"Kure","JPN","Hiroshima",206504,-178.2935519,28.392533
+"1356",1634,"Takarazuka","JPN","Hyogo",205993,135.3600729,34.7997673
+"1359",1637,"Odawara","JPN","Kanagawa",200171,139.1521538,35.2645639
+"1360",1638,"Kofu","JPN","Yamanashi",199753,138.5682015,35.66228
+"1361",1639,"Kushiro","JPN","Hokkaido",197608,144.3813556,42.9848542
+"1362",1640,"Kishiwada","JPN","Osaka",197276,135.3708291,34.4606341
+"1363",1641,"Hitachi","JPN","Ibaragi",196622,-97.4136874,35.1875648
+"1365",1643,"Itami","JPN","Hyogo",190886,135.4009473,34.7843061
+"1366",1644,"Uji","JPN","Kyoto",188735,135.7998544,34.8844606
+"1367",1645,"Suzuka","JPN","Mie",184061,136.5842092,34.8818796
+"1368",1646,"Hirosaki","JPN","Aomori",177522,140.4639223,40.6031243
+"1370",1648,"Kodaira","JPN","Tokyo-to",174984,139.477456,35.7285774
+"1371",1649,"Takaoka","JPN","Toyama",174380,137.0257282,36.7540964
+"1372",1650,"Obihiro","JPN","Hokkaido",173685,143.1961031,42.9238989
+"1373",1651,"Tomakomai","JPN","Hokkaido",171958,141.6053721,42.6343021
+"1374",1652,"Saga","JPN","Saga",170034,-111.8945028,40.7082057
+"1375",1653,"Sakura","JPN","Chiba",168072,-96.1068002,36.1386685
+"1376",1654,"Kamakura","JPN","Kanagawa",167661,139.5466868,35.3192254
+"1377",1655,"Mitaka","JPN","Tokyo-to",167268,139.5595842,35.683513
+"1378",1656,"Izumi","JPN","Osaka",166979,-94.7205203,38.8860713
+"1379",1657,"Hino","JPN","Tokyo-to",166770,-97.4674748,37.6658532
+"1381",1659,"Ashikaga","JPN","Tochigi",165243,139.4496984,36.3401513
+"1382",1660,"Tsu","JPN","Mie",164543,-95.3606121,29.7217625
+"1383",1661,"Sayama","JPN","Saitama",162472,139.4122129,35.8529421
+"1384",1662,"Yachiyo","JPN","Chiba",161222,-85.1068964,33.6018173
+"1385",1663,"Tsukuba","JPN","Ibaragi",160768,140.0766423,36.0834857
+"1386",1664,"Tachikawa","JPN","Tokyo-to",159430,139.4078431,35.7140142
+"1387",1665,"Kumagaya","JPN","Saitama",157171,139.3886446,36.1473097
+"1388",1666,"Moriguchi","JPN","Osaka",155941,135.5617511,34.7357872
+"1389",1667,"Otaru","JPN","Hokkaido",155784,140.9946622,43.1907173
+"1390",1668,"Anjo","JPN","Aichi",153823,137.080297,34.9586414
+"1391",1669,"Narashino","JPN","Chiba",152849,140.0272368,35.681613
+"1392",1670,"Oyama","JPN","Tochigi",152820,-91.6571343,42.0323869
+"1393",1671,"Ogaki","JPN","Gifu",151758,136.6127502,35.3593842
+"1394",1672,"Matsue","JPN","Shimane",149821,133.048375,35.4680595
+"1395",1673,"Kawanishi","JPN","Hyogo",149794,135.417278,34.8301347
+"1396",1674,"Hitachinaka","JPN","Tokyo-to",148006,140.5346762,36.3966149
+"1397",1675,"Niiza","JPN","Saitama",147744,139.565369,35.7935109
+"1402",1680,"Ota","JPN","Gumma",145317,-95.6587918,37.0435928
+"1405",1683,"Ome","JPN","Tokyo-to",139216,-105.2211175,40.0274366
+"1407",1685,"Yamaguchi","JPN","Yamaguchi",138210,131.4706493,34.1859563
+"1408",1686,"Higashimurayama","JPN","Tokyo-to",136970,139.4684892,35.7545968
+"1409",1687,"Yonago","JPN","Tottori",136461,133.3309447,35.4280717
+"1410",1688,"Matsubara","JPN","Osaka",135010,135.5518501,34.5778791
+"1411",1689,"Musashino","JPN","Tokyo-to",134426,-97.74731,30.2978383
+"1413",1691,"Joetsu","JPN","Niigata",133505,138.2360802,37.1478477
+"1414",1692,"Miyakonojo","JPN","Miyazaki",133183,131.0616214,31.7195903
+"1416",1694,"Kakamigahara","JPN","Gifu",131831,136.8482643,35.3988691
+"1417",1695,"Daito","JPN","Osaka",130594,131.25,25.85
+"1418",1696,"Seto","JPN","Aichi",130470,133.2908233,34.0766034
+"1419",1697,"Kariya","JPN","Aichi",127969,137.0021069,34.9892245
+"1420",1698,"Urayasu","JPN","Chiba",127550,139.9019174,35.653153
+"1421",1699,"Beppu","JPN","Oita",127486,131.4912138,33.28462
+"1422",1700,"Niihama","JPN","Ehime",127207,133.2833512,33.9602895
+"1423",1701,"Minoo","JPN","Osaka",127026,135.4704626,34.8269301
+"1424",1702,"Fujieda","JPN","Shizuoka",126897,138.2574584,34.8673673
+"1425",1703,"Abiko","JPN","Chiba",126670,-73.9861618,40.7473032
+"1427",1705,"Tondabayashi","JPN","Osaka",125094,135.5971277,34.4995274
+"1428",1706,"Ueda","JPN","Nagano",124217,138.2488888,36.4019115
+"1429",1707,"Kashihara","JPN","Nara",124013,135.792626,34.5094478
+"1430",1708,"Matsusaka","JPN","Mie",123582,136.5275927,34.5779931
+"1431",1709,"Isesaki","JPN","Gumma",123285,139.1967703,36.3113639
+"1432",1710,"Zama","JPN","Kanagawa",122046,139.4076731,35.4885872
+"1433",1711,"Kisarazu","JPN","Chiba",121967,139.92486,35.3812265
+"1434",1712,"Noda","JPN","Chiba",121030,-80.8017877,35.2456474
+"1435",1713,"Ishinomaki","JPN","Miyagi",120963,141.3029167,38.4344802
+"1437",1715,"Kawachinagano","JPN","Osaka",119666,135.5642257,34.4580844
+"1438",1716,"Imabari","JPN","Ehime",119357,132.99786,34.0660979
+"1439",1717,"Aizuwakamatsu","JPN","Fukushima",119287,139.9298096,37.4947611
+"1440",1718,"Higashihiroshima","JPN","Hiroshima",119166,132.7433068,34.4263804
+"1441",1719,"Habikino","JPN","Osaka",118968,135.6062119,34.5580348
+"1442",1720,"Ebetsu","JPN","Hokkaido",118805,141.5362468,43.1037445
+"1443",1721,"Hofu","JPN","Yamaguchi",118751,131.56269,34.0517516
+"1444",1722,"Kiryu","JPN","Gumma",118326,139.3306875,36.4054907
+"1445",1723,"Okinawa","JPN","Okinawa",117748,127.6809317,26.2124013
+"1446",1724,"Yaizu","JPN","Shizuoka",117258,138.3231893,34.8669202
+"1447",1725,"Toyokawa","JPN","Aichi",115781,137.3755423,34.8268506
+"1448",1726,"Ebina","JPN","Kanagawa",115571,139.3908031,35.4464459
+"1449",1727,"Asaka","JPN","Saitama",114815,-82.544858,35.569004
+"1450",1728,"Higashikurume","JPN","Tokyo-to",111666,139.5297392,35.7580477
+"1451",1729,"Ikoma","JPN","Nara",111645,135.7005364,34.6919598
+"1454",1732,"Iwatsuki","JPN","Saitama",110034,139.6941913,35.9498608
+"1456",1734,"Handa","JPN","Aichi",108600,-5.2,58.3666667
+"1457",1735,"Muroran","JPN","Hokkaido",108275,140.9737991,42.3152306
+"1459",1737,"Yatsushiro","JPN","Kumamoto",107661,130.6020961,32.5083871
+"1460",1738,"Iida","JPN","Nagano",107583,137.8214466,35.5149777
+"1461",1739,"Tokuyama","JPN","Yamaguchi",107078,-73.9801597,40.7240146
+"1462",1740,"Kokubunji","JPN","Tokyo-to",106996,139.4631912,35.7103347
+"1464",1742,"Iwakuni","JPN","Yamaguchi",106647,132.2188479,34.1665616
+"1465",1743,"Kusatsu","JPN","Shiga",106232,138.5960529,36.6207784
+"1466",1744,"Kuwana","JPN","Mie",106121,136.683803,35.0622161
+"1467",1745,"Sanda","JPN","Hyogo",105643,-5.5826851,55.2795966
+"1468",1746,"Hikone","JPN","Shiga",105508,136.2596226,35.274461
+"1469",1747,"Toda","JPN","Saitama",103969,-95.935691,36.726678
+"1470",1748,"Tajimi","JPN","Gifu",103171,137.1320765,35.3328
+"1471",1749,"Ikeda","JPN","Osaka",102710,-121.0552683,38.9280456
+"1472",1750,"Fukaya","JPN","Saitama",102156,139.2814638,36.1974437
+"1473",1751,"Ise","JPN","Mie",101732,-73.9899471,40.7290643
+"1476",1754,"Kamagaya","JPN","Chiba",100821,140.0007904,35.7767501
+"1477",1755,"Tsuruoka","JPN","Yamagata",100713,139.8267307,38.7271972
+"1478",1756,"Hoya","JPN","Tokyo-to",100313,-114.6522155,36.9469142
+"1479",1757,"Nishio","JPN","Chiba",100032,137.0618498,34.8619367
+"1481",1759,"Inazawa","JPN","Aichi",98746,136.780202,35.2481321
+"1483",1761,"Isehara","JPN","Kanagawa",98123,139.3149729,35.4029686
+"1484",1762,"Takasago","JPN","Hyogo",97632,-73.934655,41.010708
+"1485",1763,"Fujimi","JPN","Saitama",96972,138.2406985,35.9146214
+"1486",1764,"Urasoe","JPN","Okinawa",96002,127.7217987,26.2458164
+"1487",1765,"Yonezawa","JPN","Yamagata",95592,140.1167811,37.9222401
+"1488",1766,"Konan","JPN","Aichi",95521,-117.759527,33.665198
+"1489",1767,"Yamatokoriyama","JPN","Nara",95165,135.7827554,34.6493738
+"1490",1768,"Maizuru","JPN","Kyoto",94784,135.3859918,35.4747971
+"1491",1769,"Onomichi","JPN","Hiroshima",93756,133.2048886,34.4088756
+"1492",1770,"Higashimatsuyama","JPN","Saitama",93342,139.3999588,36.0421262
+"1493",1771,"Kimitsu","JPN","Chiba",93216,139.9026768,35.3304502
+"1494",1772,"Isahaya","JPN","Nagasaki",93058,130.0530952,32.8434379
+"1495",1773,"Kanuma","JPN","Tochigi",93053,139.7450127,36.5671105
+"1496",1774,"Izumisano","JPN","Osaka",92583,135.3273374,34.4068477
+"1497",1775,"Kameoka","JPN","Kyoto",92398,135.5736091,35.0134082
+"1498",1776,"Mobara","JPN","Chiba",91664,140.2880265,35.4285439
+"1499",1777,"Narita","JPN","Chiba",91470,140.3928501,35.7719867
+"1500",1778,"Kashiwazaki","JPN","Niigata",91229,138.5589836,37.3718999
+"1502",1780,"Sanaa","YEM","Sanaa",503600,-81.6053497,28.3543843
+"1503",1781,"Aden","YEM","Aden",398300,45.0186548,12.7854969
+"1504",1782,"Taizz","YEM","Taizz",317600,44.0177989,13.5775886
+"1505",1783,"Hodeida","YEM","Hodeida",298500,42.9708838,14.7909118
+"1506",1784,"al-Mukalla","YEM","Hadramawt",122400,49.127197,14.5404328
+"1507",1785,"Ibb","YEM","Ibb",103300,-96.835158,33.140571
+"1508",1786,"Amman","JOR","Amman",1e+06,35.9283716,31.9453666
+"1509",1787,"al-Zarqa","JOR","al-Zarqa",389815,36.0941795,32.0608187
+"1510",1788,"Irbid","JOR","Irbid",231511,35.8479094,32.5569557
+"1511",1789,"al-Rusayfa","JOR","al-Zarqa",137247,36.0494112,32.0169411
+"1515",1796,"Kragujevac","YUG","Central Serbia",147305,20.9114225,44.0127932
+"1517",1798,"Subotica","YUG","Vojvodina",100386,19.6650593,46.1005467
+"1518",1799,"Prizren","YUG","Kosovo and Metohija",92303,20.7414739,42.2152585
+"1520",1801,"Battambang","KHM","Battambang",129800,103.2022055,13.09573
+"1521",1802,"Siem Reap","KHM","Siem Reap",105100,103.855173,13.3550091
+"1522",1803,"Douala","CMR","Littoral",1448300,9.7678687,4.0510564
+"1523",1805,"Garoua","CMR","Nord",177000,13.393389,9.3226016
+"1524",1807,"Bamenda","CMR","Nord-Ouest",138000,10.1591213,5.9630513
+"1525",1808,"Bafoussam","CMR","Ouest",131000,10.4284178,5.4807517
+"1526",1809,"Nkongsamba","CMR","Littoral",112454,9.9353318,4.9741169
+"1527",1811,"Calgary","CAN","Alberta",768082,-114.0708459,51.0486151
+"1530",1814,"Winnipeg","CAN","Manitoba",618477,-97.1383744,49.895136
+"1531",1815,"Edmonton","CAN","Alberta",616306,-113.4909267,53.544389
+"1532",1816,"Mississauga","CAN","Ontario",608072,-79.6441198,43.5890452
+"1533",1817,"Scarborough","CAN","Ontario",594501,-0.399752,54.283113
+"1534",1818,"Vancouver","CAN","British Colombia",514008,-123.1207375,49.2827291
+"1535",1819,"Etobicoke","CAN","Ontario",348845,-79.5131983,43.6204946
+"1537",1821,"Hamilton","CAN","Ontario",335614,-79.8711024,43.2557206
+"1538",1822,"Ottawa","CAN","Ontario",335277,-75.6971931,45.4215296
+"1539",1824,"Surrey","CAN","British Colombia",304477,-0.5599501,51.3147593
+"1540",1825,"Brampton","CAN","Ontario",296711,-79.7624177,43.7315479
+"1541",1826,"Windsor","CAN","Ontario",207588,-95.6586128,37.0428341
+"1542",1827,"Saskatoon","CAN","Saskatchewan",193647,-106.6700458,52.1332144
+"1543",1828,"Kitchener","CAN","Ontario",189959,-80.4831917,43.450301
+"1544",1829,"Markham","CAN","Ontario",189098,-79.3370188,43.8561002
+"1545",1830,"Regina","CAN","Saskatchewan",180400,-104.6188943,50.4452112
+"1546",1831,"Burnaby","CAN","British Colombia",179209,-122.9805104,49.2488091
+"1547",1833,"York","CAN","Ontario",154980,-1.0872979,53.9599651
+"1548",1834,"Richmond","CAN","British Colombia",148867,-77.4360481,37.5407246
+"1549",1835,"Vaughan","CAN","Ontario",147889,-79.508276,43.8372079
+"1550",1836,"Burlington","CAN","Ontario",145150,-97.2392359,37.6780742
+"1551",1837,"Oshawa","CAN","Ontario",140173,-78.8657912,43.8970929
+"1553",1839,"Saint Catharines","CAN","Ontario",136216,-79.2468626,43.1593745
+"1554",1841,"Richmond Hill","CAN","Ontario",116428,-81.3034433,31.9382652
+"1555",1842,"Thunder Bay","CAN","Ontario",115913,-89.2476823,48.3808951
+"1556",1843,"Nepean","CAN","Ontario",115100,-75.7241006,45.3349046
+"1557",1844,"Cape Breton","CAN","Nova Scotia",114733,-60.851817,46.2486851
+"1558",1845,"East York","CAN","Ontario",114034,-79.3416638,43.6912006
+"1560",1847,"Cambridge","CAN","Ontario",109186,0.121817,52.205337
+"1561",1848,"Gloucester","CAN","Ontario",107314,-70.6619888,42.6159285
+"1562",1849,"Abbotsford","CAN","British Colombia",105403,-122.3044697,49.0504377
+"1563",1850,"Guelph","CAN","Ontario",103593,-80.2481666,43.5448048
+"1564",1852,"Coquitlam","CAN","British Colombia",101820,-122.7932065,49.2837626
+"1565",1853,"Saanich","CAN","British Colombia",101388,-123.3767223,48.4592626
+"1567",1856,"Sudbury","CAN","Ontario",92686,-80.9530353,46.522099
+"1568",1857,"Kelowna","CAN","British Colombia",89442,-119.4960106,49.8879519
+"1569",1858,"Barrie","CAN","Ontario",89269,-79.6903316,44.3893556
+"1572",1862,"Shymkent","KAZ","South Kazakstan",360100,69.590101,42.3416847
+"1573",1863,"Taraz","KAZ","Taraz",330100,71.3979891,42.8983715
+"1574",1864,"Astana","KAZ","Astana",311200,71.4703558,51.1605227
+"1576",1867,"Semey","KAZ","East Kazakstan",269600,80.250811,50.4233463
+"1579",1871,"Oral","KAZ","West Kazakstan",195500,51.3865431,51.227821
+"1580",1872,"Temirtau","KAZ","Qaraghandy",170500,72.9660737,50.0509609
+"1581",1873,"Qyzylorda","KAZ","Qyzylorda",157400,65.4822686,44.8488314
+"1582",1874,"Aqtau","KAZ","Mangghystau",143400,51.1985113,43.6410973
+"1583",1875,"Atyrau","KAZ","Atyrau",142500,51.9238373,47.0944959
+"1584",1876,"Ekibastuz","KAZ","Pavlodar",127200,75.3150685,51.725198
+"1585",1878,"Rudnyy","KAZ","Qostanay",109500,63.1128326,52.9718428
+"1586",1879,"Taldyqorghan","KAZ","Almaty",98000,78.3804417,45.0177112
+"1587",1880,"Zhezqazghan","KAZ","Qaraghandy",90000,67.7020019,47.7963656
+"1588",1881,"Nairobi","KEN","Nairobi",2290000,36.8219462,-1.2920659
+"1589",1882,"Mombasa","KEN","Coast",461753,39.6682065,-4.0434771
+"1590",1883,"Kisumu","KEN","Nyanza",192733,34.7679568,-0.0917016
+"1591",1884,"Nakuru","KEN","Rift Valley",163927,36.080026,-0.3030988
+"1593",1886,"Eldoret","KEN","Rift Valley",111882,35.2697802,0.5142775
+"1594",1887,"Meru","KEN","Eastern",94947,79.032222,30.868056
+"1595",1888,"Nyeri","KEN","Central",91258,36.9580104,-0.437099
+"1596",1889,"Bangui","CAF","Bangui",524000,18.5581899,4.3946735
+"1597",1890,"Shanghai","CHN","Shanghai",9696300,121.4737021,31.2303904
+"1598",1891,"Peking","CHN","Peking",7472000,116.4073963,39.9041999
+"1599",1892,"Chongqing","CHN","Chongqing",6351600,106.912251,29.4315861
+"1600",1893,"Tianjin","CHN","Tianjin",5286800,117.3616476,39.3433574
+"1601",1894,"Wuhan","CHN","Hubei",4344600,114.305539,30.592849
+"1602",1895,"Harbin","CHN","Heilongjiang",4289800,126.534967,45.803775
+"1603",1896,"Shenyang","CHN","Liaoning",4265200,123.431472,41.805699
+"1604",1897,"Kanton [Guangzhou]","CHN","Guangdong",4256300,113.264385,23.12911
+"1605",1898,"Chengdu","CHN","Sichuan",3361500,104.066801,30.572815
+"1606",1899,"Nanking [Nanjing]","CHN","Jiangsu",2870300,118.796877,32.060255
+"1607",1900,"Changchun","CHN","Jilin",2812000,125.323544,43.817071
+"1609",1903,"Qingdao","CHN","Shandong",2596000,120.382609,36.067108
+"1610",1904,"Jinan","CHN","Shandong",2278100,117.120095,36.6512
+"1611",1905,"Hangzhou","CHN","Zhejiang",2190500,120.15507,30.274084
+"1612",1906,"Zhengzhou","CHN","Henan",2107200,113.625328,34.746611
+"1613",1907,"Shijiazhuang","CHN","Hebei",2041500,114.514893,38.042805
+"1614",1908,"Taiyuan","CHN","Shanxi",1968400,112.548879,37.87059
+"1615",1909,"Kunming","CHN","Yunnan",1829500,102.832891,24.880095
+"1616",1910,"Changsha","CHN","Hunan",1809800,112.938814,28.228209
+"1617",1911,"Nanchang","CHN","Jiangxi",1691600,115.858197,28.682892
+"1618",1912,"Fuzhou","CHN","Fujian",1593800,119.296482,26.074478
+"1619",1913,"Lanzhou","CHN","Gansu",1565800,103.834303,36.061089
+"1620",1914,"Guiyang","CHN","Guizhou",1465200,106.630153,26.647661
+"1621",1915,"Ningbo","CHN","Zhejiang",1371200,121.54399,29.868336
+"1622",1916,"Hefei","CHN","Anhui",1369100,117.227219,31.820591
+"1623",1918,"Anshan","CHN","Liaoning",1200000,122.994329,41.108647
+"1625",1920,"Nanning","CHN","Guangxi",1161800,108.366543,22.817002
+"1626",1921,"Zibo","CHN","Shandong",1140000,118.055019,36.813546
+"1627",1922,"Qiqihar","CHN","Heilongjiang",1070000,123.918186,47.354348
+"1628",1923,"Jilin","CHN","Jilin",1040000,126.4371385,43.1520105
+"1629",1924,"Tangshan","CHN","Hebei",1040000,118.180193,39.630867
+"1631",1926,"Shenzhen","CHN","Guangdong",950500,114.057865,22.543096
+"1632",1927,"Hohhot","CHN","Inner Mongolia",916700,111.749995,40.842356
+"1633",1928,"Handan","CHN","Hebei",840000,114.538961,36.625656
+"1635",1930,"Xuzhou","CHN","Jiangsu",810000,117.284124,34.205768
+"1636",1931,"Datong","CHN","Shanxi",8e+05,113.300129,40.076762
+"1639",1934,"Luoyang","CHN","Henan",760000,112.453926,34.620202
+"1640",1935,"Suzhou","CHN","Jiangsu",710000,120.585289,31.298974
+"1641",1936,"Xining","CHN","Qinghai",700200,101.778223,36.617134
+"1642",1937,"Huainan","CHN","Anhui",7e+05,116.999932,32.625478
+"1643",1938,"Jixi","CHN","Heilongjiang",683885,130.969333,45.295075
+"1644",1939,"Daqing","CHN","Heilongjiang",660000,125.103784,46.589309
+"1645",1940,"Fuxin","CHN","Liaoning",640000,121.670273,42.021602
+"1646",1941,"Amoy [Xiamen]","CHN","Fujian",627500,118.089425,24.479833
+"1647",1942,"Liuzhou","CHN","Guangxi",610000,109.428608,24.326292
+"1648",1943,"Shantou","CHN","Guangdong",580000,116.681972,23.354091
+"1649",1944,"Jinzhou","CHN","Liaoning",570000,121.1268459,41.095685
+"1650",1945,"Mudanjiang","CHN","Heilongjiang",570000,129.633168,44.551653
+"1651",1946,"Yinchuan","CHN","Ningxia",544500,106.230908,38.487193
+"1652",1947,"Changzhou","CHN","Jiangsu",530000,119.974061,31.811226
+"1653",1948,"Zhangjiakou","CHN","Hebei",530000,114.886335,40.767544
+"1654",1949,"Dandong","CHN","Liaoning",520000,124.35445,40.000787
+"1655",1950,"Hegang","CHN","Heilongjiang",520000,130.297964,47.349916
+"1656",1951,"Kaifeng","CHN","Henan",510000,114.307582,34.797281
+"1657",1952,"Jiamusi","CHN","Heilongjiang",493409,130.3188779,46.799777
+"1658",1953,"Liaoyang","CHN","Liaoning",492559,123.236944,41.267244
+"1659",1954,"Hengyang","CHN","Hunan",487148,112.572018,26.893368
+"1660",1955,"Baoding","CHN","Hebei",483155,115.464589,38.874434
+"1661",1956,"Hunjiang","CHN","Jilin",482043,126.416093,41.945409
+"1662",1957,"Xinxiang","CHN","Henan",473762,113.926763,35.303704
+"1663",1958,"Huangshi","CHN","Hubei",457601,115.038835,30.20003
+"1664",1959,"Haikou","CHN","Hainan",454300,110.198286,20.044412
+"1665",1960,"Yantai","CHN","Shandong",452127,121.447852,37.464539
+"1666",1961,"Bengbu","CHN","Anhui",449245,117.389719,32.916287
+"1668",1963,"Weifang","CHN","Shandong",428522,119.161748,36.706962
+"1669",1964,"Wuhu","CHN","Anhui",425740,118.432941,31.352859
+"1670",1965,"Pingxiang","CHN","Jiangxi",425579,113.854556,27.622768
+"1671",1966,"Yingkou","CHN","Liaoning",421589,122.235084,40.667433
+"1672",1967,"Anyang","CHN","Henan",420332,114.392392,36.097577
+"1673",1968,"Panzhihua","CHN","Sichuan",415466,101.718637,26.582347
+"1674",1969,"Pingdingshan","CHN","Henan",410775,113.192661,33.766169
+"1675",1970,"Xiangfan","CHN","Hubei",410407,112.122426,32.009016
+"1676",1971,"Zhuzhou","CHN","Hunan",409924,113.133853,27.827986
+"1677",1972,"Jiaozuo","CHN","Henan",409100,113.241823,35.215892
+"1678",1973,"Wenzhou","CHN","Zhejiang",401871,120.699361,27.993828
+"1679",1974,"Zhangjiang","CHN","Guangdong",400997,121.588315,31.190315
+"1680",1975,"Zigong","CHN","Sichuan",393184,104.778442,29.33903
+"1681",1976,"Shuangyashan","CHN","Heilongjiang",386081,131.159133,46.646508
+"1683",1978,"Yakeshi","CHN","Inner Mongolia",377869,120.711735,49.285901
+"1684",1979,"Yichang","CHN","Hubei",371601,111.286471,30.691966
+"1687",1982,"Qinhuangdao","CHN","Hebei",364972,119.600523,39.935361
+"1688",1983,"Guilin","CHN","Guangxi",364130,110.179953,25.234479
+"1693",1988,"Liaoyuan","CHN","Jilin",354141,125.14366,42.887766
+"1696",1992,"Chifeng","CHN","Inner Mongolia",350077,118.886931,42.25785
+"1697",1993,"Shaoguan","CHN","Guangdong",350043,113.59762,24.810879
+"1698",1994,"Nantong","CHN","Jiangsu",343341,120.894291,31.980171
+"1699",1995,"Leshan","CHN","Sichuan",341128,103.765678,29.552115
+"1700",1996,"Baoji","CHN","Shaanxi",337765,107.237743,34.363184
+"1701",1997,"Linyi","CHN","Shandong",324720,118.356414,35.104673
+"1702",1998,"Tonghua","CHN","Jilin",324600,125.939697,41.728401
+"1703",1999,"Siping","CHN","Jilin",317223,124.350398,43.166419
+"1705",2001,"Tengzhou","CHN","Shandong",315083,117.164388,35.084021
+"1706",2002,"Chaozhou","CHN","Guangdong",313469,116.622756,23.656703
+"1707",2003,"Yangzhou","CHN","Jiangsu",312892,119.412939,32.394209
+"1709",2006,"Foshan","CHN","Guangdong",303160,113.121435,23.021478
+"1710",2007,"Yueyang","CHN","Hunan",302800,113.12873,29.356803
+"1711",2008,"Xingtai","CHN","Hebei",302789,114.504677,37.070834
+"1712",2009,"Changde","CHN","Hunan",301276,111.698784,29.031654
+"1714",2011,"Yancheng","CHN","Jiangsu",296831,120.16366,33.347316
+"1715",2012,"Jiujiang","CHN","Jiangxi",291187,116.00193,29.705077
+"1716",2013,"Dongying","CHN","Shandong",281728,118.674614,37.433963
+"1717",2014,"Shashi","CHN","Hubei",281352,112.255583,30.311056
+"1718",2015,"Xintai","CHN","Shandong",281248,117.767952,35.909032
+"1719",2016,"Jingdezhen","CHN","Jiangxi",281183,117.178443,29.268783
+"1720",2017,"Tongchuan","CHN","Shaanxi",280657,108.945019,34.897887
+"1721",2018,"Zhongshan","CHN","Guangdong",278829,113.39277,22.517585
+"1722",2019,"Shiyan","CHN","Hubei",273786,110.798266,32.629398
+"1723",2020,"Tieli","CHN","Heilongjiang",265683,128.0324209,46.986639
+"1724",2021,"Jining","CHN","Shandong",265248,116.587282,35.414982
+"1725",2022,"Wuhai","CHN","Inner Mongolia",264081,106.794216,39.655248
+"1726",2023,"Mianyang","CHN","Sichuan",262947,104.679004,31.46746
+"1727",2024,"Luzhou","CHN","Sichuan",262892,105.44174,28.871569
+"1729",2026,"Shizuishan","CHN","Ningxia",257862,106.383303,38.983236
+"1730",2027,"Neijiang","CHN","Sichuan",256012,105.058433,29.580228
+"1731",2028,"Tongliao","CHN","Inner Mongolia",255129,122.243444,43.65289
+"1732",2029,"Tieling","CHN","Liaoning",254842,123.726035,42.223828
+"1733",2030,"Wafangdian","CHN","Liaoning",251733,121.979603,39.627114
+"1734",2031,"Anqing","CHN","Anhui",250718,117.115101,30.531919
+"1735",2032,"Shaoyang","CHN","Hunan",247227,111.467674,27.23895
+"1736",2033,"Laiwu","CHN","Shandong",246833,117.676723,36.213813
+"1738",2035,"Tianshui","CHN","Gansu",244974,105.72498,34.580885
+"1739",2036,"Nanyang","CHN","Henan",243303,112.528308,32.990664
+"1740",2037,"Cangzhou","CHN","Hebei",242708,116.838834,38.304477
+"1741",2038,"Yibin","CHN","Sichuan",241019,104.643159,28.751836
+"1743",2040,"Dunhua","CHN","Jilin",235100,128.2323169,43.372464
+"1744",2041,"Yanji","CHN","Jilin",230892,129.508945,42.891255
+"1745",2042,"Jiangmen","CHN","Guangdong",230587,113.081508,22.579117
+"1746",2043,"Tongling","CHN","Anhui",228017,117.81154,30.945515
+"1747",2044,"Suihua","CHN","Heilongjiang",227881,126.968887,46.653845
+"1752",2049,"Huzhou","CHN","Zhejiang",218071,120.086809,30.89441
+"1753",2050,"Baicheng","CHN","Jilin",217987,122.838826,45.619588
+"1754",2051,"Shangzi","CHN","Heilongjiang",215373,128.009894,45.209586
+"1755",2052,"Yangjiang","CHN","Guangdong",215196,111.982232,21.857958
+"1756",2053,"Qitaihe","CHN","Heilongjiang",214957,131.0031381,45.771726
+"1757",2054,"Gejiu","CHN","Yunnan",214294,103.160034,23.359121
+"1758",2055,"Jiangyin","CHN","Jiangsu",213659,120.284938,31.920658
+"1759",2056,"Hebi","CHN","Henan",212976,114.297201,35.748233
+"1760",2057,"Jiaxing","CHN","Zhejiang",211526,120.758543,30.753924
+"1761",2058,"Wuzhou","CHN","Guangxi",210452,111.279115,23.476962
+"1762",2059,"Meihekou","CHN","Jilin",209038,125.7108951,42.539287
+"1763",2060,"Xuchang","CHN","Henan",208815,113.852454,34.035771
+"1764",2061,"Liaocheng","CHN","Shandong",207844,115.98546,36.45703
+"1765",2062,"Haicheng","CHN","Liaoning",205560,122.685217,40.882377
+"1766",2063,"Qianjiang","CHN","Hubei",205504,112.899762,30.402167
+"1768",2066,"Yixing","CHN","Jiangsu",200824,119.823308,31.340637
+"1769",2067,"Laizhou","CHN","Shandong",198664,119.942275,37.177129
+"1770",2068,"Qaramay","CHN","Xinxiang",197602,84.889207,45.579888
+"1771",2069,"Acheng","CHN","Heilongjiang",197595,-73.9759034,40.6808682
+"1772",2070,"Dezhou","CHN","Shandong",195485,116.357464,37.434092
+"1773",2071,"Nanping","CHN","Fujian",195064,118.17771,26.641774
+"1774",2072,"Zhaoqing","CHN","Guangdong",194784,112.465091,23.047191
+"1775",2073,"Beipiao","CHN","Liaoning",194301,120.77073,41.800683
+"1776",2074,"Fengcheng","CHN","Jiangxi",193784,115.771093,28.159141
+"1778",2076,"Xinyang","CHN","Henan",192509,114.091192,32.147679
+"1779",2077,"Dongtai","CHN","Jiangsu",192247,120.320328,32.868426
+"1780",2078,"Yuci","CHN","Shanxi",191356,112.708224,37.697794
+"1781",2079,"Honghu","CHN","Hubei",190772,113.475801,29.826916
+"1782",2080,"Ezhou","CHN","Hubei",190123,114.894843,30.39194
+"1783",2081,"Heze","CHN","Shandong",189293,115.480656,35.23375
+"1784",2082,"Daxian","CHN","Sichuan",188101,107.511843,31.196079
+"1785",2083,"Linfen","CHN","Shanxi",187309,111.518975,36.088005
+"1786",2084,"Tianmen","CHN","Hubei",186332,110.482084,29.046809
+"1787",2085,"Yiyang","CHN","Hunan",185818,112.35518,28.55386
+"1788",2086,"Quanzhou","CHN","Fujian",185154,118.675675,24.874132
+"1789",2087,"Rizhao","CHN","Shandong",185048,119.526925,35.416734
+"1790",2088,"Deyang","CHN","Sichuan",182488,104.397894,31.126855
+"1791",2089,"Guangyuan","CHN","Sichuan",182241,105.843357,32.435435
+"1792",2090,"Changshu","CHN","Jiangsu",181805,120.752481,31.654375
+"1793",2091,"Zhangzhou","CHN","Fujian",181424,117.647093,24.513025
+"1794",2092,"Hailar","CHN","Inner Mongolia",180650,119.7361761,49.212188
+"1795",2093,"Nanchong","CHN","Sichuan",180273,106.110698,30.837793
+"1796",2094,"Jiutai","CHN","Jilin",180130,125.8395731,44.151742
+"1797",2095,"Zhaodong","CHN","Heilongjiang",179976,125.961814,46.051126
+"1798",2096,"Shaoxing","CHN","Zhejiang",179818,120.586109,29.995762
+"1799",2097,"Fuyang","CHN","Anhui",179572,115.814504,32.890479
+"1801",2099,"Qujing","CHN","Yunnan",178669,103.796167,25.489999
+"1802",2100,"Ghulja","CHN","Xinxiang",177193,81.527453,43.977138
+"1803",2101,"Jiaohe","CHN","Jilin",176367,127.344229,43.724007
+"1805",2103,"Huadian","CHN","Jilin",175873,126.746309,42.972096
+"1806",2104,"Jiangyou","CHN","Sichuan",175753,104.745823,31.778022
+"1807",2105,"Qashqar","CHN","Xinxiang",174570,75.99379,39.467685
+"1810",2108,"Xinyu","CHN","Jiangxi",173524,114.917346,27.817808
+"1811",2109,"Hanzhong","CHN","Shaanxi",169930,107.023323,33.06748
+"1812",2110,"Danyang","CHN","Jiangsu",169603,119.606439,32.010214
+"1813",2111,"Chenzhou","CHN","Hunan",169400,113.014717,25.770509
+"1815",2113,"Shangqiu","CHN","Henan",164880,115.656339,34.414961
+"1816",2114,"Zhuhai","CHN","Guangdong",164747,113.576677,22.270978
+"1819",2117,"Jining","CHN","Inner Mongolia",163552,116.587282,35.414982
+"1820",2118,"Xiaoshan","CHN","Zhejiang",162930,120.264253,30.183806
+"1821",2119,"Zaoyang","CHN","Hubei",162198,112.771959,32.128818
+"1822",2120,"Xinghua","CHN","Jiangsu",161910,119.85254,32.910459
+"1823",2121,"Hami","CHN","Xinxiang",161315,93.51515,42.81842
+"1824",2122,"Huizhou","CHN","Guangdong",161023,114.415801,23.112257
+"1825",2123,"Jinmen","CHN","Hubei",160794,118.3285644,24.3487792
+"1826",2124,"Sanming","CHN","Fujian",160691,117.638678,26.263406
+"1827",2125,"Ulanhot","CHN","Inner Mongolia",159538,122.093123,46.072731
+"1828",2126,"Korla","CHN","Xinxiang",159344,86.174633,41.725891
+"1829",2127,"Wanxian","CHN","Sichuan",156823,108.408661,30.807667
+"1830",2129,"Zhoushan","CHN","Zhejiang",156317,122.207215,29.985295
+"1832",2131,"Jiaozhou","CHN","Shandong",153364,120.006202,36.285877
+"1833",2132,"Taizhou","CHN","Jiangsu",152442,121.42076,28.65638
+"1834",2133,"Suzhou","CHN","Anhui",151862,120.585289,31.298974
+"1836",2135,"Taonan","CHN","Jilin",150168,103.911434,1.3049059
+"1837",2136,"Pingdu","CHN","Shandong",150123,119.98842,36.776357
+"1838",2138,"Longkou","CHN","Shandong",148362,120.477813,37.646108
+"1840",2140,"Zhoukou","CHN","Henan",146288,114.69695,33.626149
+"1841",2141,"Suining","CHN","Sichuan",146086,105.592898,30.532847
+"1842",2142,"Yulin","CHN","Guangxi",144467,110.18122,22.654032
+"1843",2143,"Jinhua","CHN","Zhejiang",144280,119.64742,29.079175
+"1844",2145,"Shuangcheng","CHN","Heilongjiang",142659,-93.2363797,44.9805708
+"1845",2146,"Suizhou","CHN","Hubei",142302,113.382458,31.690215
+"1847",2148,"Weinan","CHN","Shaanxi",140169,109.502882,34.49938
+"1848",2149,"Longjing","CHN","Jilin",139417,120.5163949,24.2102428
+"1850",2152,"Laiyang","CHN","Shandong",137080,120.711672,36.978941
+"1851",2153,"Xianning","CHN","Hubei",136811,114.322439,29.841438
+"1852",2154,"Dali","CHN","Yunnan",136554,-82.6314354,27.7659901
+"1853",2155,"Anda","CHN","Heilongjiang",136446,119.9856157,16.2982564
+"1854",2156,"Jincheng","CHN","Shanxi",136396,112.851831,35.490701
+"1855",2157,"Longyan","CHN","Fujian",134481,117.017536,25.075123
+"1856",2158,"Xichang","CHN","Sichuan",134419,102.264449,27.894504
+"1859",2161,"Binzhou","CHN","Shandong",133555,117.970699,37.38198
+"1863",2165,"Mishan","CHN","Heilongjiang",132744,131.846635,45.529774
+"1864",2166,"Shangrao","CHN","Jiangxi",132455,117.943433,28.454862
+"1865",2167,"Changji","CHN","Xinxiang",132260,87.304112,44.013183
+"1869",2172,"Leiyang","CHN","Hunan",130115,112.859759,26.422277
+"1871",2174,"Weihai","CHN","Shandong",128888,122.120419,37.513068
+"1872",2175,"Loudi","CHN","Hunan",128418,111.993497,27.700062
+"1873",2176,"Qingzhou","CHN","Shandong",128258,118.479654,36.684789
+"1874",2177,"Qidong","CHN","Jiangsu",126872,121.655432,31.793278
+"1876",2179,"Luohe","CHN","Henan",126438,114.016536,33.580873
+"1877",2180,"Chuzhou","CHN","Anhui",125341,118.328321,32.253425
+"1878",2181,"Kaiyuan","CHN","Liaoning",124219,103.267142,23.714316
+"1879",2182,"Linqing","CHN","Shandong",123958,115.704881,36.838277
+"1880",2183,"Chaohu","CHN","Anhui",123676,117.890354,31.624522
+"1882",2185,"Dujiangyan","CHN","Sichuan",123357,103.6075308,31.0051649
+"1883",2186,"Zhumadian","CHN","Henan",123232,114.022298,33.011529
+"1885",2188,"Jiaonan","CHN","Shandong",121397,115.413779,38.134916
+"1886",2189,"Sanmenxia","CHN","Henan",120523,111.200367,34.772792
+"1887",2190,"Heyuan","CHN","Guangdong",120101,114.700961,23.743685
+"1888",2191,"Manzhouli","CHN","Inner Mongolia",120023,117.378529,49.597841
+"1889",2192,"Lhasa","CHN","Tibet",120000,91.140552,29.654838
+"1890",2193,"Lianyuan","CHN","Hunan",118858,111.664316,27.692542
+"1891",2194,"Kuytun","CHN","Xinxiang",118553,84.903267,44.426529
+"1892",2195,"Puqi","CHN","Hubei",117264,113.900628,29.724692
+"1893",2196,"Hongjiang","CHN","Hunan",116188,109.836669,27.208609
+"1894",2197,"Qinzhou","CHN","Guangxi",114586,108.654146,21.979933
+"1895",2198,"Renqiu","CHN","Hebei",114256,116.082917,38.683591
+"1896",2199,"Yuyao","CHN","Zhejiang",114065,121.154634,30.037192
+"1897",2200,"Guigang","CHN","Guangxi",114025,109.598926,23.11153
+"1898",2201,"Kaili","CHN","Guizhou",113958,107.981212,26.566867
+"1899",2203,"Beihai","CHN","Guangxi",112673,109.120161,21.481291
+"1900",2204,"Xuangzhou","CHN","Anhui",112673,113.264385,23.12911
+"1901",2205,"Quzhou","CHN","Zhejiang",112373,118.859457,28.970079
+"1902",2207,"Zixing","CHN","Hunan",110048,113.236146,25.976243
+"1903",2208,"Liyang","CHN","Jiangsu",109520,119.48421,31.416911
+"1904",2209,"Yizheng","CHN","Jiangsu",109268,119.184766,32.272258
+"1905",2210,"Yumen","CHN","Gansu",109234,97.045678,40.291843
+"1906",2211,"Liling","CHN","Hunan",108504,113.496999,27.646096
+"1907",2212,"Yuncheng","CHN","Shanxi",108359,111.00746,35.026516
+"1908",2213,"Shanwei","CHN","Guangdong",107847,115.375158,22.786186
+"1909",2214,"Cixi","CHN","Zhejiang",107329,121.266579,30.169665
+"1910",2215,"Yuanjiang","CHN","Hunan",107004,112.355954,28.847045
+"1911",2216,"Bozhou","CHN","Anhui",106346,115.778676,33.844582
+"1912",2217,"Jinchang","CHN","Gansu",105287,102.188043,38.520089
+"1913",2219,"Suqian","CHN","Jiangsu",105021,118.275198,33.963232
+"1914",2220,"Shishou","CHN","Hubei",104571,112.425454,29.720938
+"1916",2222,"Danjiangkou","CHN","Hubei",103211,111.513127,32.540157
+"1918",2224,"Sanya","CHN","Hainan",102820,109.511909,18.252847
+"1919",2225,"Guangshui","CHN","Hubei",102770,113.825889,31.616853
+"1920",2226,"Huangshan","CHN","Anhui",102628,118.337521,29.714699
+"1921",2227,"Xingcheng","CHN","Liaoning",102384,120.756479,40.609731
+"1922",2228,"Zhucheng","CHN","Shandong",102134,119.410103,35.995654
+"1926",2232,"Fuqing","CHN","Fujian",99193,119.384334,25.721143
+"1929",2235,"Zhangjiagang","CHN","Jiangsu",97994,120.556005,31.875572
+"1930",2236,"Tong Xian","CHN","Peking",97168,102.8406725,23.8131234
+"1931",2238,"Jinzhou","CHN","Liaoning",95761,121.1268459,41.095685
+"1932",2239,"Emeishan","CHN","Sichuan",94000,103.334737,29.516007
+"1933",2240,"Enshi","CHN","Hubei",93056,109.488172,30.272156
+"1934",2241,"Bose","CHN","Guangxi",93009,-97.6502462,35.4622112
+"1935",2242,"Yuzhou","CHN","Henan",92889,113.488478,34.140701
+"1936",2243,"Kaiyuan","CHN","Yunnan",91999,103.267142,23.714316
+"1937",2244,"Tumen","CHN","Jilin",91471,129.5727514,42.496382
+"1939",2246,"Linhai","CHN","Zhejiang",90870,121.131229,28.845441
+"1940",2247,"Xilin Hot","CHN","Inner Mongolia",90646,116.086032,43.933411
+"1941",2248,"Shaowu","CHN","Fujian",90286,117.492533,27.340326
+"1942",2249,"Junan","CHN","Shandong",90222,-87.963165,41.925964
+"1943",2250,"Huaying","CHN","Sichuan",89400,106.7831,30.390188
+"1944",2251,"Pingyi","CHN","Shandong",89373,117.640352,35.505943
+"1945",2252,"Huangyan","CHN","Zhejiang",89288,121.261886,28.650072
+"1946",2253,"Bishkek","KGZ","Bishkek shaary",589400,74.5697617,42.8746212
+"1947",2254,"Osh","KGZ","Osh",222700,-118.080492,34.146809
+"1948",2255,"Bikenibeu","KIR","South Tarawa",5055,173.128629,1.364419
+"1949",2256,"Bairiki","KIR","South Tarawa",2226,172.9790528,1.3290526
+"1950",2258,"Cali","COL","Valle",2077386,-76.5319854,3.4516467
+"1951",2263,"Bucaramanga","COL","Santander",515555,-73.1227416,7.119349
+"1952",2265,"Pereira","COL","Risaralda",381725,-75.690601,4.8087174
+"1953",2266,"Santa Marta","COL","Magdalena",359147,-74.2110227,11.2403547
+"1954",2267,"Manizales","COL","Caldas",337580,-75.5138166,5.070275
+"1955",2268,"Bello","COL","Antioquia",333470,-95.856888,36.1040012
+"1956",2270,"Neiva","COL","Huila",300052,-75.2809001,2.9344837
+"1957",2273,"Villavicencio","COL","Meta",273140,-73.6376905,4.1513822
+"1958",2274,"Soacha","COL","Cundinamarca",272058,-74.2117465,4.5827227
+"1960",2278,"Palmira","COL","Valle",226509,-76.2971657,3.5379718
+"1961",2279,"Buenaventura","COL","Valle",224336,-77.0197212,3.8830471
+"1962",2280,"Floridablanca","COL","Santander",221913,-73.1069693,7.0723921
+"1963",2281,"Sincelejo","COL","Sucre",220704,-75.3905567,9.3045773
+"1964",2283,"Barrancabermeja","COL","Santander",178020,-73.8519319,7.0617085
+"1965",2284,"Dos Quebradas","COL","Risaralda",159363,-75.6805678,4.8318256
+"1966",2286,"Envigado","COL","Antioquia",135848,-75.5873636,6.1696109
+"1967",2287,"Cartago","COL","Valle",125884,-83.9161935,9.8638091
+"1968",2288,"Girardot","COL","Cundinamarca",110963,-74.8031414,4.3045959
+"1969",2289,"Buga","COL","Valle",110699,-76.3021889,3.9005079
+"1970",2292,"Maicao","COL","La Guajira",108053,-72.2485171,11.3789335
+"1971",2294,"Giron","COL","Santander",90688,-79.1463868,-3.1582299
+"1973",2296,"Brazzaville","COG","Brazzaville",950000,15.2428853,-4.2633597
+"1976",2299,"Lubumbashi","COD","Shaba",851381,27.5026174,-11.6876026
+"1977",2300,"Mbuji-Mayi","COD","East Kasai",806475,23.5966577,-6.1306709
+"1980",2304,"Likasi","COD","Shaba",299118,26.7378585,-10.9884148
+"1981",2305,"Bukavu","COD","South Kivu",201569,28.8480284,-2.5123017
+"1982",2306,"Kikwit","COD","Bandundu",182142,18.7838572,-5.0487359
+"1983",2307,"Tshikapa","COD","West Kasai",180860,20.7956878,-6.4237489
+"1984",2309,"Mbandaka","COD","Equateur",169841,18.2970692,0.0265717
+"1986",2312,"Uvira","COD","South Kivu",115590,29.1448793,-3.3728836
+"1987",2313,"Butembo","COD","North Kivu",109406,29.3018011,0.114047
+"1989",2315,"Kalemie","COD","Shaba",101309,29.1913918,-5.9127393
+"1990",2316,"Bantam","CCK","Home Island",503,106.1632389,-6.0354324
+"1992",2318,"Pyongyang","PRK","Pyongyang-si",2484000,125.7625241,39.0392193
+"1996",2322,"Sinuiju","PRK","Pyongan P",326011,124.4489192,40.0823213
+"1997",2323,"Wonsan","PRK","Kangwon",300148,127.4460001,39.1538529
+"1998",2324,"Phyongsong","PRK","Pyongan N",272934,125.861953,39.2604149
+"1999",2325,"Sariwon","PRK","Hwanghae P",254146,125.7516069,38.5023428
+"2000",2326,"Haeju","PRK","Hwanghae N",229172,125.7079231,38.0375021
+"2001",2327,"Kanggye","PRK","Chagang",223410,126.5990916,40.9676726
+"2002",2328,"Kimchaek","PRK","Hamgyong P",179000,129.1902694,40.668162
+"2003",2329,"Hyesan","PRK","Yanggang",178020,128.1744945,41.387384
+"2004",2330,"Kaesong","PRK","Kaesong-si",171500,126.5877948,37.9381943
+"2005",2331,"Seoul","KOR","Seoul",9981619,126.9779692,37.566535
+"2007",2333,"Inchon","KOR","Inchon",2559424,126.7052062,37.4562557
+"2008",2334,"Taegu","KOR","Taegu",2548568,128.601445,35.8714354
+"2010",2336,"Kwangju","KOR","Kwangju",1368341,126.8526012,35.1595454
+"2011",2337,"Ulsan","KOR","Kyongsangnam",1084891,129.3113596,35.5383773
+"2012",2338,"Songnam","KOR","Kyonggi",869094,127.1388684,37.4449168
+"2014",2340,"Suwon","KOR","Kyonggi",755550,127.0286009,37.2635727
+"2015",2341,"Anyang","KOR","Kyonggi",591106,114.392392,36.097577
+"2016",2342,"Chonju","KOR","Chollabuk",563153,127.1479532,35.8242238
+"2017",2343,"Chongju","KOR","Chungchongbuk",531376,125.2066831,39.6975916
+"2018",2344,"Koyang","KOR","Kyonggi",518282,126.8320201,37.6583599
+"2019",2345,"Ansan","KOR","Kyonggi",510314,126.8308848,37.3218778
+"2021",2347,"Chang-won","KOR","Kyongsangnam",481694,-81.5070926,41.4639849
+"2022",2348,"Masan","KOR","Kyongsangnam",441242,128.581433,35.213516
+"2023",2349,"Kwangmyong","KOR","Kyonggi",350914,125.7876318,39.06717
+"2024",2350,"Chonan","KOR","Chungchongnam",330259,140.2370646,35.3864209
+"2025",2351,"Chinju","KOR","Kyongsangnam",329886,128.1076213,35.1799817
+"2026",2352,"Iksan","KOR","Chollabuk",322685,126.9575991,35.9482858
+"2028",2354,"Kumi","KOR","Kyongsangbuk",311431,-115.175962,36.093987
+"2029",2355,"Uijongbu","KOR","Kyonggi",276111,127.0336819,37.738098
+"2030",2356,"Kyongju","KOR","Kyongsangbuk",272968,129.2247477,35.8561719
+"2033",2359,"Kimhae","KOR","Kyongsangnam",256370,128.8893517,35.2285451
+"2035",2361,"Mokpo","KOR","Chollanam",247452,126.3921664,34.8118351
+"2036",2362,"Yong-in","KOR","Kyonggi",242643,127.1775537,37.2410864
+"2037",2363,"Wonju","KOR","Kang-won",237460,127.9201621,37.3422186
+"2038",2364,"Kunpo","KOR","Kyonggi",235233,126.9351741,37.3616703
+"2040",2366,"Namyangju","KOR","Kyonggi",229060,127.2165279,37.6360028
+"2041",2367,"Kangnung","KOR","Kang-won",220403,128.8760574,37.751853
+"2043",2369,"Andong","KOR","Kyongsangbuk",188443,128.729357,36.5683543
+"2044",2370,"Yosu","KOR","Chollanam",183596,127.6622221,34.7603737
+"2045",2371,"Kyongsan","KOR","Kyongsangbuk",173746,128.7415441,35.8250555
+"2046",2372,"Paju","KOR","Kyonggi",163379,126.7801781,37.7598688
+"2047",2373,"Yangsan","KOR","Kyongsangnam",163351,129.0371689,35.3350072
+"2049",2375,"Asan","KOR","Chungchongnam",154663,127.0018494,36.789796
+"2050",2376,"Koje","KOR","Kyongsangnam",147562,128.6210824,34.8806427
+"2052",2378,"Nonsan","KOR","Chungchongnam",146619,127.0987453,36.1870656
+"2053",2379,"Kuri","KOR","Kyonggi",142173,-122.2325213,37.4947989
+"2054",2380,"Chong-up","KOR","Chollabuk",139111,-117.086846,33.507338
+"2055",2381,"Chechon","KOR","Chungchongbuk",137070,128.1909481,37.1325821
+"2056",2382,"Sosan","KOR","Chungchongnam",134746,126.4503169,36.7844993
+"2057",2383,"Shihung","KOR","Kyonggi",133443,126.8031025,37.3798877
+"2058",2384,"Tong-yong","KOR","Kyongsangnam",131717,-79.2661955,43.7884413
+"2060",2386,"Yongju","KOR","Kyongsangbuk",131097,113.8208433,22.7962688
+"2062",2388,"Sangju","KOR","Kyongsangbuk",124116,128.1590828,36.4109466
+"2063",2389,"Poryong","KOR","Chungchongnam",122604,126.6129441,36.3331629
+"2064",2390,"Kwang-yang","KOR","Chollanam",122052,-122.8455966,49.1979889
+"2065",2391,"Miryang","KOR","Kyongsangnam",121501,128.7464415,35.5037598
+"2066",2392,"Hanam","KOR","Kyonggi",115812,127.2148919,37.5392646
+"2067",2393,"Kimje","KOR","Chollabuk",115427,126.8808872,35.8036079
+"2068",2394,"Yongchon","KOR","Kyongsangbuk",113511,124.4625341,39.9824639
+"2069",2395,"Sachon","KOR","Kyongsangnam",113494,120.9917018,14.4419749
+"2070",2396,"Uiwang","KOR","Kyonggi",108788,126.9683104,37.344701
+"2071",2397,"Naju","KOR","Chollanam",107831,-85.5857593,30.153404
+"2072",2398,"Namwon","KOR","Chollabuk",103544,127.3904877,35.416357
+"2074",2400,"Mun-gyong","KOR","Kyongsangbuk",92239,128.1867972,36.586148
+"2075",2401,"Athenai","GRC","Attika",772072,23.7275388,37.9838096
+"2076",2402,"Thessaloniki","GRC","Central Macedonia",383967,22.9444191,40.6400629
+"2077",2403,"Pireus","GRC","Attika",182671,23.6469832,37.9429857
+"2079",2405,"Peristerion","GRC","Attika",137288,23.6859275,38.0176649
+"2081",2407,"Kallithea","GRC","Attika",114233,23.7020975,37.955893
+"2082",2408,"Larisa","GRC","Thessalia",113090,22.4191254,39.6390224
+"2084",2410,"Split","HRV","Split-Dalmatia",189388,16.4401935,43.5081323
+"2085",2411,"Rijeka","HRV","Primorje-Gorski Kota",167964,14.442176,45.3270631
+"2086",2412,"Osijek","HRV","Osijek-Baranja",104761,18.6955144,45.5549624
+"2090",2420,"Bayamo","CUB","Granma",141000,-76.6297189,20.3719163
+"2092",2422,"Victoria de las Tunas","CUB","Las Tunas",132350,-76.9527836,20.957938
+"2095",2427,"al-Salimiya","KWT","Hawalli",130215,48.0715612,29.3352938
+"2096",2428,"Jalib al-Shuyukh","KWT","Hawalli",102178,47.9366629,29.2552218
+"2098",2430,"Nicosia","CYP","Nicosia",195000,33.3822764,35.1855659
+"2099",2431,"Limassol","CYP","Limassol",154400,33.0226174,34.7071301
+"2101",2433,"Savannakhet","LAO","Savannakhet",96652,104.7705509,16.5722464
+"2102",2434,"Riga","LVA","Riika",764328,24.1051865,56.9496487
+"2104",2436,"Liepaja","LVA","Liepaja",89439,21.010806,56.5046678
+"2105",2437,"Maseru","LSO","Maseru",297000,27.4869229,-29.3150767
+"2107",2439,"Tripoli","LBN","al-Shamal",240000,13.1913383,32.8872094
+"2109",2441,"Tripoli","LBY","Tripoli",1682000,13.1913383,32.8872094
+"2111",2443,"Misrata","LBY","Misrata",121669,15.0992556,32.3255884
+"2112",2444,"al-Zawiya","LBY","al-Zawiya",89338,12.7364962,32.7630282
+"2113",2445,"Schaan","LIE","Schaan",5346,9.5105301,47.1675004
+"2114",2446,"Vaduz","LIE","Vaduz",5043,9.5209277,47.1410303
+"2115",2447,"Vilnius","LTU","Vilna",577969,25.2796514,54.6871555
+"2116",2448,"Kaunas","LTU","Kaunas",412639,23.9035965,54.8985207
+"2117",2449,"Klaipeda","LTU","Klaipeda",202451,21.1442795,55.7032948
+"2118",2451,"Panevezys","LTU","Panevezys",133695,24.3574774,55.7347915
+"2119",2454,"Macao","MAC","Macau",437500,113.543873,22.198745
+"2120",2455,"Antananarivo","MDG","Antananarivo",675669,47.5079055,-18.8791902
+"2121",2456,"Toamasina","MDG","Toamasina",127441,49.3957836,-18.1442811
+"2122",2458,"Mahajanga","MDG","Mahajanga",100807,46.3336857,-15.6921494
+"2123",2459,"Fianarantsoa","MDG","Fianarantsoa",99005,47.0875045,-21.4546147
+"2124",2460,"Skopje","MKD","Skopje",444299,21.4279956,41.9973462
+"2125",2461,"Blantyre","MWI","Blantyre",478155,-73.258821,42.335961
+"2126",2462,"Lilongwe","MWI","Lilongwe",435964,33.7741195,-13.9626121
+"2127",2463,"Male","MDV","Maale",71000,73.5093474,4.1754959
+"2128",2464,"Kuala Lumpur","MYS","Wilayah Persekutuan",1297526,101.686855,3.139003
+"2129",2465,"Ipoh","MYS","Perak",382853,101.090106,4.597479
+"2130",2466,"Johor Baharu","MYS","Johor",328436,103.7413591,1.492659
+"2131",2467,"Petaling Jaya","MYS","Selangor",254350,101.5944885,3.1278871
+"2132",2468,"Kelang","MYS","Selangor",243355,101.39283,2.999852
+"2133",2469,"Kuala Terengganu","MYS","Terengganu",228119,103.1370142,5.329624
+"2134",2470,"Pinang","MYS","Pulau Pinang",219603,-75.7419988,39.7113036
+"2135",2471,"Kota Bharu","MYS","Kelantan",219582,102.2776838,6.1167855
+"2136",2472,"Kuantan","MYS","Pahang",199484,103.2201828,3.7633859
+"2137",2473,"Taiping","MYS","Perak",183261,100.7416339,4.851932
+"2138",2474,"Seremban","MYS","Negeri Sembilan",182869,101.9378239,2.725889
+"2139",2475,"Kuching","MYS","Sarawak",148059,110.3785438,1.6076812
+"2141",2477,"Sandakan","MYS","Sabah",125841,118.1171729,5.839444
+"2142",2478,"Alor Setar","MYS","Kedah",124412,100.3678178,6.1248
+"2143",2479,"Selayang Baru","MYS","Selangor",124228,101.6538245,3.263739
+"2144",2480,"Sungai Petani","MYS","Kedah",114763,100.4894179,5.643589
+"2145",2481,"Shah Alam","MYS","Selangor",102019,101.518461,3.073281
+"2147",2483,"Birkirkara","MLT","Outer Harbour",21445,14.4665072,35.8954706
+"2148",2484,"Valletta","MLT","Inner Harbour",7073,14.5145528,35.8989085
+"2149",2485,"Casablanca","MAR","Casablanca",2940623,-7.5898434,33.5731104
+"2150",2487,"Marrakech","MAR","Marrakech-Tensift-Al",621914,-7.9810845,31.6294723
+"2152",2495,"Safi","MAR","Doukkala-Abda",262300,-9.2272033,32.3008151
+"2153",2497,"Mohammedia","MAR","Casablanca",154706,-7.3848547,33.6835086
+"2154",2498,"Khouribga","MAR","Chaouia-Ouardigha",152090,-6.9208655,32.886023
+"2155",2499,"Beni-Mellal","MAR","Tadla-Azilal",140212,-6.375799,32.342443
+"2156",2501,"El Jadida","MAR","Doukkala-Abda",119083,-8.5007116,33.2316326
+"2160",2507,"Dalap-Uliga-Darrit","MHL","Majuro",28000,171.3640022,7.1217836
+"2162",2509,"Nouakchott","MRT","Nouakchott",667300,-15.9582372,18.0735299
+"2163",2511,"Port-Louis","MUS","Port-Louis",138200,57.5012222,-20.1608912
+"2164",2512,"Beau Bassin-Rose Hill","MUS","Plaines Wilhelms",100616,57.468383,-20.2230305
+"2165",2513,"Vacoas-Phoenix","MUS","Plaines Wilhelms",98464,57.4938355,-20.2984026
+"2166",2514,"Mamoutzou","MYT","Mamoutzou",12000,45.227872,-12.7809488
+"2167",2516,"Guadalajara","MEX","Jalisco",1647720,-103.3496092,20.6596988
+"2168",2518,"Puebla","MEX","Puebla",1346176,-98.2062727,19.0414398
+"2169",2521,"Tijuana","MEX","Baja California",1212232,-117.0382471,32.5149469
+"2170",2524,"Zapopan","MEX","Jalisco",1002239,-103.416501,20.6719563
+"2171",2526,"Mexicali","MEX","Baja California",764902,-115.4522623,32.6245389
+"2172",2531,"Chihuahua","MEX","Chihuahua",670208,-105.7820674,28.4854458
+"2173",2535,"Aguascalientes","MEX","Aguascalientes",643360,-102.2915677,21.8852562
+"2174",2538,"Hermosillo","MEX","Sonora",608697,-110.9559192,29.0729673
